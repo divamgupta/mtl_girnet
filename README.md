@@ -1,7 +1,7 @@
 # GIRNet: Interleaved Multi-Task Recurrent State Sequence Models
 Code and datasets for our AAAI'19 paper : GIRNet: Interleaved Multi-Task Recurrent State Sequence Models.
 
-The code is implemented ink eras
+The code is implemented in Keras
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ The code is implemented ink eras
 
 * Python 2.7
 
-* hypy
+* h5py
 
   ​
 
@@ -31,7 +31,7 @@ The code is implemented ink eras
 
 ### Using GIRNet
 
-To use GIRNet, import GIRNet.py in your project. Refer the following snipped
+To use GIRNet, import GIRNet.py in your project. Refer the following snippet :
 
 ```python
 # Define the aux LSTMs
