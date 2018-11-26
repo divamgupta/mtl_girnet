@@ -34,6 +34,9 @@ The code is implemented in Keras
 To use GIRNet, import GIRNet.py in your project. Refer the following snippet :
 
 ```python
+# Import GIRNet
+from GIRNet import GIRNet
+
 # Define the aux LSTMs
 rnn_aux1 = LSTM( nHidden )
 rnn_aux2 = LSTM( nHidden )
