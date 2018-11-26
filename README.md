@@ -8,24 +8,20 @@ The code is implemented in Keras
 ### Prerequisites
 
 * Keras 2.1.4
-
 * Tensorflow 1.4.0
-
 * Numpy 1.14.3
-
 * Python 2.7
-
 * h5py
 
-  ​
 
-  ```shell
-  pip install --upgrade keras==2.1.4
-  pip install --upgrade tensorflow-gpu==1.4.0
-  pip install --upgrade numpy==1.14.3
-  pip install h5py
-  pip install scikit-learn
-  ```
+
+```shell
+pip install --upgrade keras==2.1.4
+pip install --upgrade tensorflow-gpu==1.4.0
+pip install --upgrade numpy==1.14.3
+pip install h5py
+pip install scikit-learn
+```
 
 
 
