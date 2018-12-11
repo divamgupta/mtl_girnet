@@ -1,9 +1,9 @@
 from keras.models import *
 from keras.layers import *
 import keras
-from myutils.keras_utils import allow_growth , showKerasModel
+from dlblocks.keras_utils import allow_growth , showKerasModel
 allow_growth()
-from myutils.pyutils import env_arg
+from dlblocks.pyutils import env_arg
 import tensorflow as tf
 
 from Utils import Trainer

@@ -10,8 +10,8 @@ import h5py
 
 from sklearn.metrics import classification_report , accuracy_score , f1_score , recall_score , precision_score , mean_absolute_error , mean_squared_error
 
-from myutils.keras_utils import WeightsPredictionsSaver
-from myutils.TrainUtils import BaseTrainer
+from dlblocks.keras_utils import WeightsPredictionsSaver
+from dlblocks.TrainUtils import BaseTrainer
 import random
 import json
 import os
