@@ -1,0 +1,1 @@
+{"nHidden": 64, "recurrent_dropout": 0.2, "sharing_scheme": "stacked", "exp_name": "ssp_restaurent", "dropout": 0.2, "dataset": "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5", "epochs": 4, "maxTarLen": 10, "maxSentenceL": 80}

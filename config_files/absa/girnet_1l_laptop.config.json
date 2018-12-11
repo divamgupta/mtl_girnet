@@ -1,0 +1,1 @@
+{"nHidden": 64, "recurrent_dropout": 0.2, "exp_name": "girnet_1l_laptop", "dropout": 0.2, "n_layers": 1, "dataset": "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5", "epochs": 4, "maxTarLen": 10, "maxSentenceL": 80}
