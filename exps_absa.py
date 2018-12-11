@@ -11,7 +11,6 @@ if en == 0:
 	config = {}
 	config['epochs'] = 4
 	config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
-	# config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
 	config['nHidden'] = 64
@@ -27,7 +26,6 @@ if en == 0:
 if en == 1:
 	config = {}
 	config['epochs'] = 4
-	# config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
 	config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
@@ -46,7 +44,6 @@ if en == 2:
 	config = {}
 	config['epochs'] = 4
 	config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
-	# config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
 	config['nHidden'] = 64
@@ -63,7 +60,6 @@ if en == 2:
 if en == 3:
 	config = {}
 	config['epochs'] = 4
-	# config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
 	config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
@@ -87,7 +83,6 @@ if en == 4:
 	config = {}
 	config['epochs'] = 4
 	config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
-	# config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
 	config['nHidden'] = 64
@@ -103,7 +98,6 @@ if en == 4:
 if en == 5:
 	config = {}
 	config['epochs'] = 4
-	# config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
 	config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
@@ -124,7 +118,6 @@ if en == 6:
 	config = {}
 	config['epochs'] = 4
 	config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
-	# config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
 	config['nHidden'] = 64
@@ -143,7 +136,6 @@ if en == 6:
 if en == 7:
 	config = {}
 	config['epochs'] = 4
-	# config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
 	config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
@@ -159,7 +151,6 @@ if en == 7:
 if en == 8:
 	config = {}
 	config['epochs'] = 4
-	#config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
 	config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
@@ -174,7 +165,6 @@ if en == 9:
 	config = {}
 	config['epochs'] = 4
 	config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
-	# config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
 	config['nHidden'] = 64
@@ -190,7 +180,6 @@ if en == 10:
 	config = {}
 	config['epochs'] = 4
 	config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
-	# config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
 	config['nHidden'] = 64
@@ -204,7 +193,6 @@ if en == 10:
 if en == 11:
 	config = {}
 	config['epochs'] = 4
-	# config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
 	config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
@@ -220,7 +208,6 @@ if en == 11:
 if en == 12:
 	config = {}
 	config['epochs'] = 4
-	#config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
 	config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
@@ -236,7 +223,6 @@ if en == 12:
 if en == 13:
 	config = {}
 	config['epochs'] = 4
-	#config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
 	config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
@@ -254,7 +240,6 @@ if en == 14:
 	config = {}
 	config['epochs'] = 4
 	config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
-	# config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
 	config['nHidden'] = 64
@@ -270,7 +255,6 @@ if en == 15:
 	config = {}
 	config['epochs'] = 4
 	config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
-	# config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
 	config['nHidden'] = 64
@@ -289,7 +273,6 @@ if en == 15:
 if en == 16:
 	config = {}
 	config['epochs'] = 4
-	# config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
 	config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
@@ -306,7 +289,6 @@ if en == 17:
 	config = {}
 	config['epochs'] = 4
 	config['dataset'] = "./data/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
-	# config['dataset'] =  "./data/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
 	config['maxSentenceL'] = 80
 	config['maxTarLen'] = 10
 	config['nHidden'] = 64
