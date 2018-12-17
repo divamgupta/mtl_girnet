@@ -1,34 +1,23 @@
 # GIRNet: Interleaved Multi-Task Recurrent State Sequence Models
-Code and datasets for our AAAI'19 paper : GIRNet: Interleaved Multi-Task Recurrent State Sequence Models.
 
-The code is implemented in Keras
+Packaged datasets and Keras code for the paper [GIRNet: Interleaved Multi-Task Recurrent State Sequence Models](https://arxiv.org/abs/1811.11456).
 
-## Getting Started
-
-### Prerequisites
-
-* Keras 2.1.4
-* Tensorflow 1.4.0
-* Numpy 1.14.3
-* Python 2.7
-* h5py
-
-
-
+Prepare a virtual environment and install requirements as follows.
 ```shell
-pip install --upgrade keras==2.1.4
-pip install --upgrade tensorflow-gpu==1.4.0
-pip install --upgrade numpy==1.14.3
-pip install h5py
-pip install scikit-learn
+$ virtualenv -p `which python3` /path/to/girnet-env
+$ source /path/to/girnet-env/bin/activate
+(girnet-env)$ pip install -r requirements.txt
 ```
 
+Download the [zipped data files](https://drive.google.com/open?id=1fksInwJMD9vlFfduonjDyNMJ5GbUkKTQ) and unzip in the code root, which will place all the .h5 files in the data subdirectory.  Gdrive can be used for downloading.
+```bash
+$ cd /tmp
+$ gdrive download 1fksInwJMD9vlFfduonjDyNMJ5GbUkKTQ
+$ cd /path/to/code
+$ unzip /path/to/zipfile
+```
 
-
-### Using GIRNet
-
-To use GIRNet, import GIRNet.py in your project. Refer the following snippet :
-
+To use GIRNet, import GIRNet.py in your project. Examples are provided in the following snippet.
 ```python
 # Import GIRNet
 from GIRNet import GIRNet
@@ -55,8 +44,4 @@ out_prim = Dense( 3 , activation='softmax')( out_interleaved )
 m = Model([inp_aux1 , inp_aux2 , inp_prim] , [out_aux1  , out_aux2  , out_prim ] )
 ```
 
-
-
-## Questions?
-
-contact : divam14038 [at] iiitd [dot] ac [dot] in
+In case of questions, contact: divam14038 [at] iiitd [dot] ac [dot] in

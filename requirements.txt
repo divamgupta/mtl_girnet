@@ -1,0 +1,6 @@
+keras==2.1.4
+tensorflow-gpu==1.4.0
+numpy==1.14.3
+h5py
+scikit-learn
+dlblocks==0.1
