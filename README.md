@@ -11,9 +11,10 @@ $ source /path/to/girnet-env/bin/activate
 
 Download the [zipped data files](https://drive.google.com/open?id=1fksInwJMD9vlFfduonjDyNMJ5GbUkKTQ) and unzip in the code root, which will place all the .h5 files in the data subdirectory.  Gdrive can be used for downloading.
 ```bash
+$ mkdir data
 $ cd /tmp
 $ gdrive download 1fksInwJMD9vlFfduonjDyNMJ5GbUkKTQ
-$ cd /path/to/code
+$ cd /path/to/code/data
 $ unzip /path/to/zipfile
 ```
 
