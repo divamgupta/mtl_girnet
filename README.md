@@ -4,7 +4,7 @@ Packaged datasets and Keras code for the paper [GIRNet: Interleaved Multi-Task R
 
 Prepare a virtual environment and install requirements as follows.
 ```shell
-$ virtualenv -p `which python3` /path/to/girnet-env
+$ virtualenv -p `which python2` /path/to/girnet-env
 $ source /path/to/girnet-env/bin/activate
 (girnet-env)$ pip install -r requirements.txt
 ```
