@@ -11,7 +11,7 @@ from dlblocks.pyutils import int64Arr , floatArr
 import h5py
 
 
-raw_absa_path = "../data/absa_raw/"
+raw_absa_path = "./data_raw_absa/"
 glove_h5_path = "../data/glovePrepped.h5"
 
 

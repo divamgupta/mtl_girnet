@@ -1,0 +1,3981 @@
+Happy	en	G_J
+birthday	en	G_N
+di	hi	G_V
+..	univ	G_X
+
+Live	en	G_V
+long	en	G_J
+!	univ	G_X
+Ding	en	G_N
+dong	en	G_V
+
+Thnk	hi	G_V
+u	hi	G_PRP
+akki	hi	G_N
+
+are	hi	G_V
+..	univ	G_X
+
+Jage	en	G_N
+hue	hi	G_J
+ho	hi	G_V
+
+So	hi	PSP
+gyi	hi	G_N
+thi	hi	G_V
+
+Abi	hi	G_N
+uthi	hi	G_N
+
+Bahut	hi	G_N
+sahi	hi	G_N
+
+Kai's	hi	G_N
+ho	hi	G_V
+?	univ	G_X
+
+Mai	hi	G_N
+achhi	hi	G_J
+
+Tu	hi	#
+sunnna	hi	G_N
+
+Bas	hi	G_X
+didi	hi	G_N
+sab	hi	G_SYM
+thk	hi	G_X
+
+Haan	hi	U
+
+Agye	hi	G_J
+tum	hi	G_X
+log	hi	G_N
+chennai	ne	G_N
+se	hi	PSP
+??	univ	G_X
+
+Nahi	hi	G_N
+didi	hi	G_N
+wo	hi	G_V
+log	hi	G_N
+nahi	hi	G_N
+aaye	hi	G_N
+
+Abhi	hi	G_N
+tak	hi	G_X
+
+Tu	hi	G_X
+ni	hi	G_PRT
+gya	hi	G_N
+??	univ	G_X
+
+Nai	hi	G_PRP
+di	hi	G_V
+..	univ	G_X
+
+Mandir	ne	G_N
+gaya	hi	G_N
+tha	hi	G_X
+main	hi	G_N
+..	univ	G_X
+Okkk	hi	U
+
+Or	hi	G_X
+bdday	en	G_N
+kaisa	hi	G_N
+raha	hi	G_N
+di	hi	G_V
+?	univ	G_X
+
+Ofc	hi	G_V
+me	hi	G_PRP
+thi	hi	G_V
+
+Ghr	hi	G_N
+aayi	hi	G_N
+jldi	hi	G_N
+but	en	CC
+whi	hi	G_PRP
+ghr	hi	G_N
+pe	hi	PSP
+hun	hi	G_V
+
+Are	hi	G_V
+..	univ	G_X
+
+To	hi	PSP
+budday	en	G_V
+gifts	hi	G_N
+to	hi	PSP
+mil	hi	G_N
+Hi	hi	G_N
+gaye	hi	G_N
+na	hi	G_PRT
+aapke	hi	G_N
+...	univ	G_X
+🤗	hi	G_X
+lill	en	G_V
+bro	en	G_V
+wale	hi	G_N
+
+Haan	hi	U
+
+Mera	hi	G_N
+bhai😘😘	hi	G_N
+
+Di	hi	G_N
+namaskaramm	hi	G_V
+
+Namashkar	hi	G_N
+akki	hi	G_N
+
+Kaisa	hi	G_N
+hain	hi	G_V
+??	univ	G_X
+
+Mast	hi	G_J
+hun	hi	G_V
+di	hi	G_V
+
+Ghar	hi	G_X
+aaya	hi	G_N
+hu	hi	G_V
+...	univ	G_X
+
+Abhi	hi	G_N
+abhi	hi	G_N
+nizamuddin	hi	G_PRP
+pahucha	hi	G_N
+
+Ghar	hi	G_N
+ja	hi	G_N
+ra	hi	PSP
+hu	hi	G_V
+ab	hi	PSP
+bus	en	G_N
+em	hi	G_PRP
+
+Me	hi	G_PRP
+
+Haan	hi	U
+
+Bhai	hi	G_N
+ne	hi	PSP
+btaya	hi	G_N
+
+Mera	hi	G_N
+bhai	hi	G_N
+bhi	hi	G_N
+aa	hi	PSP
+jata	hi	G_N
+
+Are	hi	G_V
+bohot	hi	G_N
+bola	hi	G_N
+mene	hi	G_V
+di	hi	G_V
+usko	hi	G_PRP
+ki	hi	G_PRP
+chal	hi	G_J
+.	univ	G_X
+Ek	hi	G_X
+Hi	hi	G_N
+tiket	ne	G_V
+me	hi	G_PRP
+ho	hi	G_V
+jyga	hi	G_N
+kam	hi	G_X
+bhi	hi	G_N
+..	univ	G_X
+Bolta	hi	G_N
+ke	hi	G_PRP
+project	en	G_V
+karega	hi	G_N
+..	univ	G_X
+
+Whi	hi	$
+na	hi	G_PRT
+
+Maine	hi	G_N
+bi	hi	G_N
+bola	hi	G_N
+
+Han	hi	G_V
+woi	hi	G_PRP
+to	hi	G_PRT
+..	univ	G_X
+
+May	hi	G_V
+this	en	DT
+season	en	G_N
+of	hi	PSP
+color	hi	G_N
+bring	en	G_V
+you	en	G_PRP
+cheer	en	G_J
+and	en	CC
+happiness	en	G_V
+.	univ	G_X
+May	hi	G_V
+the	en	DT
+colors	hi	G_N
+of	hi	PSP
+the	en	DT
+Holi	hi	G_N
+continues	en	G_N
+to	hi	PSP
+illuminate	en	G_V
+your	en	DT
+life	ne	G_N
+and	en	CC
+
+guide	en	G_N
+you	en	G_PRP
+towards	hi	G_V
+the	en	DT
+path	univ	G_N
+of	hi	PSP
+success	en	G_N
+.	univ	G_X
+Happy	en	G_J
+Holi	hi	G_N
+!	univ	G_X
+😊😊😊	hi	E
+
+kamine	hi	G_N
+
+Hi	hi	G_PRT
+Di	hi	G_N
+..	univ	G_X
+
+Namaskaar	hi	G_PRT
+
+💣💣💣💣💣	hi	G_X
+
+😡😡😡😡😡😡	hi	E
+
+baat	hi	G_N
+na	hi	G_PRT
+kr	hi	G_X
+smjha	ne	G_N
+
+🤑🤑🤑	hi	G_X
+
+Ye	hi	G_PRP
+kya	hi	G_J
+bomb	hi	G_N
+dikha	hi	G_V
+Rahe	hi	G_N
+ho	hi	G_V
+
+tujhe	hi	G_N
+udane	univ	G_N
+k	hi	G_X
+liye	hi	PSP
+
+Are	hi	G_V
+mera	hi	G_N
+baby	hi	G_N
+naraj	hi	G_N
+hogya	hi	G_N
+
+😛	hi	E
+
+😘😘😘	hi	E
+
+baby	hi	G_N
+???	univ	G_X
+
+itne	hi	G_N
+chaate	hi	G_V
+khayega	hi	G_N
+pdai	hi	G_N
+bhul	hi	G_N
+jyega	hi	G_N
+
+Ye	hi	G_PRP
+bomb	hi	G_N
+mere	hi	G_V
+bombs💨	hi	G_N
+ke	hi	G_PRP
+aage	en	G_N
+Kuch	hi	G_X
+nai	hi	$
+hain😝😝	hi	G_V
+
+😡😡😳😳😡😡	hi	null
+
+acha	hi	G_J
+g	hi	G_N
+
+Kahe	hi	G_N
+ke	hi	G_PRP
+chaate	hi	G_V
+?	univ	G_X
+
+or	hi	CC
+btaaa	univ	G_N
+kaisa	hi	G_N
+h	hi	G_X
+?????	univ	G_X
+
+Mastttt	hi	U
+
+pdai	hi	G_N
+kaisi	hi	G_N
+chl	hi	G_N
+rhi	hi	G_N
+h	hi	G_X
+
+Kyu	hi	G_X
+gf	hi	G_N
+bi	hi	G_N
+baby	hi	G_N
+hoti	hi	G_V
+h	hi	G_X
+kya	hi	G_N
+
+Behen	hi	G_N
+Ni	hi	G_PRP
+hoti	hi	G_V
+kya	hi	G_J
+
+Padhai	hi	G_N
+hi	hi	G_PRT
+to	hi	PSP
+chalti	hi	G_V
+hai	hi	G_V
+
+glti	hi	G_N
+se	hi	G_PRP
+di	hi	G_V
+ko	hi	PSP
+b	hi	G_V
+yaad	hi	G_N
+kr	hi	G_PRP
+liya	hi	G_N
+kr	hi	G_PRP
+
+Or	hi	G_X
+chalti	hi	G_N
+rehti	hi	G_N
+hai	hi	G_V
+
+hoti	hi	G_V
+h	hi	G_PRT
+bt	hi	CC
+abhi	hi	G_N
+main	hi	G_N
+tujhse	hi	G_V
+naraj	hi	G_N
+hu	hi	G_V
+
+Kar	hi	G_X
+to	hi	PSP
+liya	hi	G_V
+
+😁😁😁😁	hi	E
+
+okkkk	hi	U
+
+Shadi	hi	G_N
+kab	hi	PSP
+hai	hi	G_V
+?	univ	G_X
+
+pooja	ne	G_N
+ne	hi	PSP
+kaha	hi	G_X
+h	hi	G_X
+
+Nahi	hi	G_N
+apka	hi	G_N
+message	en	G_N
+mila	hi	G_N
+phke	hi	G_N
+
+to	hi	PSP
+kr	hi	G_V
+liya	hi	E
+
+Phle	hi	G_N
+
+Fir	hi	G_N
+bad	hi	G_V
+me	hi	G_PRP
+pooja	ne	G_N
+ne	hi	PSP
+bataya	hi	G_N
+
+aa	hi	PSP
+kr	hi	G_X
+ldka	hi	G_N
+dekh	hi	G_V
+tbhi	hi	G_N
+to	hi	PSP
+hogi	hi	G_V
+
+okkkk	hi	U
+
+abhi	hi	G_N
+ni	hi	G_PRT
+malum	ne	G_N
+bt	hi	CC
+kya	hi	G_J
+pooja	ne	G_N
+ko	hi	PSP
+invite	en	G_V
+kr	hi	G_PRP
+diya	hi	G_N
+h	hi	G_X
+tu	hi	PSP
+mt	hi	G_N
+aaiyu	hi	G_N
+
+Han	hi	G_X
+thik	hi	G_N
+hai	hi	G_V
+
+Usi	hi	G_N
+se	hi	G_PRP
+karo	hi	G_V
+baat	hi	G_N
+
+Mere	hi	G_N
+se	hi	G_PRP
+kyu	hi	G_PRP
+
+Main	hi	G_N
+jara	hi	G_N
+hu	hi	G_V
+nahane	hi	G_N
+
+jaaa	hi	G_N
+
+bdbo	hi	G_N
+aa	hi	PSP
+rhi	hi	G_N
+h	hi	G_X
+
+ja	hi	G_PRT
+
+naha	hi	G_N
+le	hi	G_V
+
+Han	hi	G_X
+apko	hi	G_N
+itnei	hi	G_N
+door	hi	G_N
+se	hi	PSP
+agayi	hi	G_V
+na	hi	G_PRT
+
+Oeeeeee	univ	#
+
+hmmm	hi	G_PRT
+
+or	hi	CC
+btaaa	univ	G_N
+sb	hi	G_N
+thik	hi	G_N
+na	hi	G_N
+
+Han	hi	G_X
+di	hi	G_V
+
+Sab	hi	G_N
+thik	hi	G_N
+hi	hi	G_PRT
+hai	hi	G_V
+
+okkk	hi	U
+
+kb	hi	G_PRP
+aayega	hi	G_N
+
+Main	hi	G_N
+ara	hi	G_N
+hu	hi	G_N
+di	hi	PSP
+holibse	hi	G_V
+ek	hi	G_SYM
+din	hi	G_X
+phle	hi	G_N
+
+okkkk	hi	U
+
+Wo	hi	G_X
+kya	hi	G_J
+chugli	hi	G_N
+kri	hi	G_PRP
+moti	hi	G_N
+meri	hi	G_N
+raat	hi	G_N
+me	hi	G_PRP
+?	univ	G_X
+
+km	hi	G_PRP
+boli	hi	G_N
+moti	hi	G_N
+mt	hi	G_PRP
+bol	hi	G_N
+
+Apko	hi	G_J
+Ni	hi	G_N
+puja	hi	G_N
+ko	hi	PSP
+moti	hi	G_J
+bola	hi	G_N
+
+ha	hi	G_PRT
+use	en	G_V
+hi	hi	G_PRT
+moti	hi	G_N
+mt	hi	G_PRP
+bol	hi	G_X
+
+smjha	ne	G_PRT
+
+mjhe	hi	G_N
+bol	hi	G_N
+
+main	hi	G_N
+moti	hi	G_N
+ho	hi	G_V
+gai	hi	G_V
+na	hi	G_PRT
+
+Jada	hi	G_N
+Ni	hi	G_PRP
+hora	hi	G_N
+kuch	hi	G_SYM
+
+😡	hi	E
+hmmm	univ	G_PRT
+
+sun	hi	G_N
+jb	hi	G_N
+jyega	hi	G_N
+na	hi	G_PRT
+to	hi	PSP
+usse	hi	G_V
+phele	hi	G_N
+milne	hi	G_N
+aaiyu	hi	G_N
+mjhse	hi	G_N
+
+Ha	hi	G_PRT
+did	hi	G_V
+soch	hi	G_N
+ra	hi	PSP
+hu	hi	G_V
+..	univ	G_X
+
+🤑	univ	G_X
+
+Did	hi	U
+
+Didi	hi	G_N
+
+hmm	univ	G_PRT
+
+mjhe	hi	G_N
+usk	hi	G_V
+liye	hi	PSP
+kuch	hi	G_SYM
+bhejna	hi	G_N
+h	hi	G_X
+
+Kya	hi	G_N
+bhej	hi	G_N
+Rahe	hi	G_N
+ho	hi	G_V
+?	univ	G_X
+
+patiyala	hi	G_N
+suit	en	G_J
+
+dono	hi	G_SYM
+mil	hi	G_N
+kr	hi	G_X
+kharid	hi	G_N
+lengeni	hi	G_V
+to	hi	PSP
+main	hi	G_N
+kharid	hi	G_N
+kr	hi	G_PRP
+rakh	hi	G_N
+lungi	hi	G_N
+
+Are	hi	G_V
+koi	hi	G_PRP
+ni	hi	G_PRT
+
+Nai	hi	G_PRT
+bhejo	hi	G_V
+
+fir	hi	G_N
+tere	hi	G_PRP
+ko	hi	PSP
+de	hi	PSP
+dungi	hi	G_N
+
+Avasarama	hi	G_N
+dani	hi	G_N
+face	en	G_N
+kosam😡	hi	G_X
+
+km	hi	G_PRP
+bol	hi	G_N
+bcha	hi	G_N
+h	hi	G_X
+bcha	hi	G_N
+bn	hi	G_V
+kr	hi	G_PRP
+reh	hi	G_X
+
+tu	hi	CC
+na	hi	G_PRT
+km	hi	G_N
+bol	hi	G_N
+
+Nenu	hi	G_N
+noru	hi	G_N
+moseskonu	hi	G_N
+
+hm	hi	G_V
+dono	hi	G_SYM
+k	hi	G_X
+bich	hi	G_N
+mei	hi	G_N
+na	hi	G_PRT
+bol	hi	G_N
+
+oye	hi	G_V
+hindi	hi	G_N
+bol	hi	G_N
+
+Nannu	hi	G_N
+eppudu	hi	G_N
+pampava	univ	G_N
+dresses	en	G_N
+..	univ	G_X
+Dani	hi	G_N
+kotta	hi	G_J
+kotta	hi	G_J
+dresses	en	G_N
+konpedtavu	hi	G_N
+
+Nahi	hi	G_N
+bol	hi	G_N
+ra	hi	PSP
+hindi	hi	G_N
+
+ruk	hi	U
+
+Usse	hi	#
+hi	hi	G_PRT
+Hindi	hi	G_V
+me	hi	G_PRP
+translate	en	G_N
+Kara	hi	G_N
+lena	hi	G_N
+
+😡	univ	G_X
+
+kraaa	hi	G_N
+lungi	hi	G_N
+
+😡	univ	G_X
+
+Moti	hi	G_N
+
+👋🏽👋🏽👋🏽👋🏽👋🏽👋🏽👋🏽👋🏽👋🏽👊🏻👊🏻👊🏻👊🏻👊🏻👊🏻👊🏻👊🏻👊🏻👊🏻	univ	G_X
+
+Are	hi	G_V
+kab	hi	PSP
+jaoge	hi	G_N
+aap	hi	G_X
+lene	hi	G_V
+?	univ	G_X
+
+ab	hi	G_X
+sachi	hi	G_N
+mei	hi	G_PRP
+lhayega	hi	G_N
+
+khayega	hi	G_N
+
+Patiyala	en	G_N
+?	univ	G_X
+
+Mere	hi	G_N
+liye	hi	PSP
+do	hi	G_V
+chaar	hi	G_V
+pajame	hi	G_N
+or	hi	CC
+shirt	en	G_N
+bhi	hi	G_N
+bhijwa	hi	G_N
+do	hi	G_V
+
+😛😝😝😝😝😝😝😝😝	univ	G_X
+
+tu	hi	CC
+apna	hi	G_N
+kaam	hi	G_N
+kr	hi	G_X
+
+chl	hi	G_J
+bhaag	hi	G_N
+
+kbhi	hi	G_PRP
+b	hi	G_V
+le	hi	G_X
+lungi	hi	G_V
+
+Shadi	hi	G_N
+me	hi	G_PRP
+rupye	hi	G_N
+dunga	hi	G_N
+kanyadaan	hi	G_N
+ke	hi	G_PRP
+
+mera	hi	G_N
+kuch	hi	G_N
+ni	hi	G_PRT
+malum	ne	G_N
+main	hi	G_N
+kb	hi	G_N
+shopping	en	G_V
+kr	hi	G_PRP
+lu	hi	G_N
+
+😀😀😀	univ	G_X
+
+Haha	univ	G_PRT
+
+ni	hi	G_PRT
+chahiye	hi	G_N
+
+Lol	univ	U
+
+Le	hi	G_N
+lo	hi	G_V
+..	univ	G_X
+
+tu	hi	CC
+mt	hi	G_N
+aaiyu	hi	E
+
+Interest	en	G_J
+
+tujhe	hi	G_N
+di	hi	G_V
+ki	hi	G_PRP
+yaad	hi	G_J
+kaha	hi	G_N
+aati	hi	G_N
+h	hi	G_PRT
+
+Are	hi	G_V
+aaunga	hi	G_N
+
+Avni	hi	G_N
+didi	hi	G_N
+ka	hi	G_N
+bhi	hi	G_N
+aise	hi	G_R
+Hi	hi	G_N
+nahi	hi	G_N
+nahi	hi	G_N
+bolta	hi	G_J
+tha	hi	G_SYM
+
+sirf	hi	G_N
+pooja	hi	G_N
+aayegi	hi	G_N
+wo	hi	G_V
+b	hi	G_V
+hr	hi	G_N
+function	en	G_N
+mei	hi	G_N
+
+Or	hi	G_X
+akhirkar	hi	G_N
+nahi	hi	G_N
+ja	hi	G_N
+paya😔	hi	G_N
+
+okkk	en	U
+
+Beta	hi	G_N
+kya	hi	G_J
+oarichay	hi	G_N
+karwaoge	hi	G_N
+usaka	hi	G_J
+ghar	hi	G_N
+walo	hi	PSP
+se	hi	G_PRP
+
+Parichay	hi	G_N
+
+agr	hi	G_X
+tu	hi	PSP
+meri	hi	G_N
+mei	hi	G_N
+ni	hi	G_PRT
+aaya	hi	G_N
+to	hi	PSP
+pitega	hi	G_N
+bht	hi	G_N
+
+hmmm	univ	G_PRT
+sahi	hi	G_N
+pkde	hi	G_N
+h😜	hi	G_X
+
+Hehe	univ	#
+
+kahungi	hi	G_N
+ye	hi	G_PRP
+hone	hi	G_V
+wali	hi	G_N
+bahu	hi	G_N
+h	hi	G_X
+
+Or	hi	G_X
+fir	hi	G_N
+to	hi	PSP
+mai	hi	G_V
+pakka	hi	G_N
+shadi	hi	G_V
+me	hi	G_PRP
+Ni	hi	G_J
+aara	hi	G_N
+
+aayega	hi	G_N
+ni	hi	G_PRT
+to	hi	PSP
+pitega	hi	G_N
+
+Are	hi	G_V
+ajaunga	hi	G_N
+di	hi	DT
+tension	en	G_N
+na	hi	G_PRT
+lo	hi	G_N
+
+Or	hi	G_X
+mastery	en	G_N
+kaisi	hi	G_N
+chal	hi	G_J
+ri	hi	G_N
+hai	hi	G_V
+apki	hi	G_N
+
+tu	hi	CC
+pich	hi	G_N
+mt	hi	G_PRP
+
+bs	hi	G_V
+
+ye	hi	G_PRP
+
+Matlab	hi	G_N
+?	univ	G_X
+
+Vistaar	hi	G_N
+se	hi	G_PRP
+bolo	hi	G_V
+
+Bolo	hi	G_J
+
+btaungi	hi	G_N
+bhi	hi	G_N
+
+uski	hi	G_N
+shadi	hi	G_N
+ho	hi	G_V
+rhi	hi	G_N
+h	hi	G_X
+
+😓😷	univ	G_X
+
+Are	hi	G_V
+to	hi	PSP
+kaise	hi	G_V
+fir	hi	G_N
+?	univ	G_X
+
+Uske	hi	#
+gharwale	hi	G_N
+Kara	hi	G_N
+re	hi	G_N
+hain	hi	G_V
+
+??	univ	G_X
+
+Are	hi	G_V
+di	hi	PSP
+ap	hi	G_SYM
+kamlesh	hi	G_N
+masi	hi	G_N
+ko	hi	PSP
+jante	hi	G_N
+ho	hi	G_V
+?	univ	G_X
+
+haaa	hi	G_J
+janti	hi	G_N
+hu	hi	G_V
+shayd	hi	G_V
+
+haaa	univ	G_PRT
+
+usk	hi	G_V
+ghr	hi	G_N
+wale	hi	G_N
+kraa	hi	G_N
+rh	hi	G_X
+h	hi	G_X
+
+Wo	hi	G_R
+man	hi	G_N
+gaya	hi	G_N
+?	univ	G_X
+
+dhamki	hi	G_N
+mili	hi	G_N
+h	hi	G_PRT
+use	hi	G_V
+
+Aaaaaaaaahhh	univ	G_N
+?	univ	G_X
+
+Kaisi	hi	G_N
+?	univ	G_X
+
+ki	hi	G_PRP
+agr	hi	G_J
+tune	hi	G_N
+shadi	hi	G_N
+ni	hi	G_PRT
+ki	hi	G_PRP
+to	hi	PSP
+hm	hi	G_V
+ye	hi	G_PRP
+kr	hi	G_PRP
+lenge	hi	G_V
+
+Ye	hi	G_PRP
+kya	hi	G_J
+karenge	hi	G_N
+?	univ	G_X
+
+are	hi	G_V
+mr	hi	DT
+jyenge	hi	G_V
+
+or	hi	CC
+wo	hi	G_PRT
+maan	hi	G_N
+gy	hi	G_N
+
+Are	hi	G_V
+yar	hi	G_PRT
+
+Maa	hi	G_N
+bap	hi	G_N
+hain	hi	G_V
+na	hi	G_PRT
+
+To	hi	PSP
+ap	hi	G_V
+ka	hi	G_N
+karoge	hi	G_V
+ab	hi	PSP
+di	hi	G_PRP
+?	univ	G_X
+
+waise	hi	G_V
+b	hi	G_V
+hmari	hi	G_N
+shadi	hi	G_N
+ni	hi	G_PRT
+ho	hi	G_V
+skti	hi	G_N
+thi	hi	G_V
+tujhe	hi	G_N
+ptaa	hi	G_N
+hai	hi	G_V
+
+hmmm	univ	G_PRT
+
+Han	hi	G_X
+wo	hi	G_V
+bhi	hi	G_N
+baat	hi	G_N
+hai	hi	G_V
+
+tu	hi	CC
+nikhil	univ	G_J
+bhai	hi	G_N
+ko	hi	PSP
+janta	hi	G_J
+h	hi	G_X
+na	hi	G_PRT
+wo	hi	G_N
+maar	hi	G_N
+daltaaa	hi	G_N
+
+waise	hi	G_V
+b	hi	G_V
+wo	hi	PSP
+sc	hi	G_N
+tha	hi	G_X
+or	hi	CC
+b	hi	G_V
+kafi	hi	G_N
+dikt	hi	G_V
+thi	hi	G_PRP
+to	hi	PSP
+acha	hi	G_J
+hua	hi	G_V
+uski	hi	G_N
+shadi	hi	G_N
+kahi	hi	G_N
+or	hi	CC
+ho	hi	DT
+rhi	hi	G_N
+ghr	hi	G_V
+wale	hi	G_N
+to	hi	PSP
+maar	hi	G_N
+hi	hi	G_N
+daltei	hi	G_N
+mjhe	hi	G_N
+
+Han	hi	G_X
+didi	hi	G_N
+
+Koi	hi	G_N
+Ni	hi	G_J
+aap	hi	G_N
+ache	hi	PSP
+ladki	hi	G_N
+jo	hi	G_PRP
+
+Kuch	hi	G_X
+hua	hi	G_V
+to	hi	PSP
+nahi	hi	G_N
+tha	hi	G_V
+na	hi	G_PRT
+?	univ	G_X
+
+niiii	hi	G_J
+
+Chalo	hi	G_V
+to	hi	PSP
+Jada	hi	G_N
+tension	en	G_N
+na	hi	G_PRT
+lo	hi	$
+...	univ	G_X
+
+hmmm	univ	G_PRT
+
+tujhe	hi	G_N
+apni	hi	G_N
+behn	hi	G_N
+pr	hi	G_N
+bharosa	hi	G_N
+h	hi	G_X
+na	hi	G_PRT
+
+ya	hi	G_PRT
+ni	hi	G_PRT
+
+Are	hi	G_V
+hai	hi	G_V
+..	univ	G_X
+Kyu	hi	G_J
+nahi	hi	G_N
+hoga	hi	G_N
+
+acha	hi	G_J
+ye	hi	G_PRP
+btaaa	hi	G_N
+kmlesh	hi	G_N
+bua	hi	G_N
+k	hi	G_X
+bare	hi	G_N
+mei	hi	G_PRP
+kya	hi	G_N
+bol	hi	G_X
+rh	hi	G_X
+tha	hi	G_SYM
+
+hmmm	univ	G_PRT
+
+baat	hi	G_N
+hoti	hi	G_V
+h	hi	G_PRT
+hmari	hi	G_N
+aaj	hi	G_X
+b	hi	G_V
+
+Nikki	hi	G_N
+didi	hi	G_N
+hain	hi	G_V
+na	hi	G_PRT
+
+hmmm	univ	G_PRT
+
+Unko	hi	G_N
+pics	en	G_N
+moti	hi	G_N
+ko	hi	PSP
+dikhaunga	hi	G_V
+hain	hi	G_V
+Unki	hi	U
+
+okkk	en	U
+
+Fb	en	G_N
+ID	en	G_N
+hai	hi	G_V
+?	univ	G_X
+
+meri	hi	G_N
+?????	univ	G_X
+
+Are	hi	G_V
+unki	hi	G_N
+
+ptaaa	hi	G_N
+ni	hi	G_PRT
+mere	hi	G_V
+frd	en	G_J
+list	en	G_N
+mei	hi	G_N
+ni	hi	G_PRT
+h	hi	G_X
+
+Are	hi	G_V
+yar	hi	G_PRT
+
+kya	hi	G_J
+
+???	univ	G_X
+
+I	en	G_PRP
+mean	en	G_V
+.	univ	G_X
+Ye	hi	G_PRP
+bol	hi	G_X
+ri	hi	G_N
+thi	hi	G_PRP
+ki	hi	G_PRP
+unki	hi	G_N
+pics	en	G_N
+do	hi	G_V
+
+okkk	en	U
+
+lucky	univ	G_J
+bhai	hi	G_N
+ki	hi	G_PRP
+frd	en	G_J
+list	en	G_N
+mei	hi	G_N
+ho	hi	G_V
+skti	hi	G_N
+h	hi	G_X
+wo	hi	G_V
+
+waise	hi	G_V
+wo	hi	G_V
+bht	hi	G_N
+achi	hi	G_J
+h	hi	G_X
+kbhi	hi	G_N
+use	en	G_V
+chodna	hi	G_N
+ni	hi	G_PRT
+okkkk	en	G_N
+
+Pooja	univ	G_N
+?	univ	G_X
+
+Han	hi	G_X
+din	hi	G_V
+me	hi	G_PRP
+Chand	hi	G_N
+ka	hi	G_N
+tukda	hi	G_N
+ban	hi	G_V
+gayi	hi	G_N
+?	univ	G_X
+
+g	hi	G_N
+ni	hi	G_PRT
+wo	hi	G_PRT
+b	hi	G_V
+ek	hi	G_PRP
+ldki	hi	G_N
+h	hi	G_PRT
+isliye	hi	G_N
+bol	hi	G_X
+rhi	hi	G_N
+hu	hi	G_V
+as	en	PSP
+a	en	DT
+human	en	G_N
+...	univ	G_X
+
+To	hi	PSP
+human	en	G_V
+to	hi	PSP
+main	hi	G_N
+bhi	hi	G_N
+hu	hi	G_V
+na	hi	G_PRT
+
+😡	univ	G_X
+
+mjhe	hi	G_N
+malum	hi	G_N
+h	hi	G_PRT
+kitna	hi	G_N
+bura	hi	G_N
+lgta	hi	G_N
+h	hi	G_PRT
+jb	hi	G_N
+hm	hi	G_V
+apne	hi	G_PRP
+pyr	hi	PSP
+se	hi	G_PRP
+dur	hi	G_SYM
+hote	hi	G_V
+h	hi	G_PRT
+
+Are	hi	G_V
+didi	hi	G_N
+
+Pata	hi	G_N
+I	en	G_PRP
+also	en	G_R
+know	en	G_V
+
+Pata	hi	G_J
+hai	hi	G_V
+
+hmmm	univ	G_PRT
+
+so	en	G_R
+pls	en	G_PRT
+
+bhai	hi	G_N
+kbhi	hi	G_N
+kuch	hi	G_SYM
+galat	hi	G_N
+kriyu	hi	G_N
+
+K	en	G_X
+d	hi	DT
+..	univ	G_X
+Abhi	hi	G_V
+tak	hi	G_V
+to	hi	PSP
+kiya	hi	G_N
+nai	hi	$
+...	univ	G_X
+
+krna	hi	G_N
+b	hi	G_V
+ni	hi	G_PRT
+hai	hi	G_V
+
+Nai	hi	G_PRP
+karunga	hi	G_N
+di	hi	G_V
+..	univ	G_X
+
+okkk	en	U
+
+good	en	G_J
+
+Ap	hi	G_J
+ab	hi	G_X
+fresh	en	G_N
+mind	en	G_N
+se	hi	PSP
+ho	hi	G_V
+?	univ	G_X
+
+niii	hi	U
+
+Aca	hi	G_N
+hai	hi	G_V
+nai	hi	G_PRP
+large	en	G_N
+?	univ	G_X
+
+Shadi	hi	G_N
+*	univ	G_X
+
+koshish	hi	G_N
+kr	hi	G_X
+rhi	hi	G_N
+hu	hi	G_V
+
+hmm	univ	G_PRT
+
+Acha	hi	G_N
+Rona	hi	G_N
+dhona	hi	G_N
+karte	hi	G_N
+ho	hi	G_V
+?	univ	G_X
+
+hmmm	univ	G_PRT
+
+Nai	hi	G_PRT
+rona	hi	G_N
+
+Bhai	hi	G_N
+hai	hi	G_V
+na	hi	G_PRT
+
+😘	univ	G_X
+
+hmmm	univ	G_PRT
+
+i	en	G_PRP
+know	en	G_V
+
+okkk	en	U
+
+😘😘	univ	G_X
+
+hmmm	univ	G_PRT
+
+☺☺☺☺☺	univ	#
+😊😊😊😊😊😊😊	univ	G_X
+
+Or	hi	G_X
+dasso	hi	G_N
+
+kya	hi	G_J
+
+Kujh	hi	G_PRT
+v	hi	G_X
+
+kya	hi	G_J
+
+Hehe	univ	#
+
+Chalo	hi	G_N
+mai	hi	G_N
+.	univ	G_X
+Lunch	en	G_V
+karne	hi	G_N
+jara	hi	G_N
+hu	hi	G_V
+
+okkk	en	#
+bye	en	G_V
+
+Didi	hi	G_N
+
+Hi	en	G_PRT
+
+hiii	en	U
+
+Kya	hi	G_J
+kr	hi	G_X
+re	hi	PSP
+o	hi	CC
+
+tv	en	#
+dekh	hi	G_N
+rhi	hi	G_N
+hu	hi	G_V
+
+Serial	en	G_J
+
+😖	univ	G_X
+
+..	univ	G_X
+hmmmm	univ	G_PRT
+
+sahi	hi	G_N
+pkde	hi	G_N
+h	hi	G_PRT
+
+tu	hi	CC
+kya	hi	G_J
+kr	hi	G_PRP
+rh	hi	G_N
+
+Kuch	hi	G_X
+Ni	hi	G_J
+baitha	hi	G_N
+hu	hi	G_V
+
+kisk	hi	G_V
+sath	hi	G_N
+
+pooja	univ	G_N
+k	hi	G_X
+
+Nahi	hi	G_N
+di	hi	G_V
+
+Hostel	en	#
+me	hi	G_PRP
+
+Kal	hi	G_X
+mandir	hi	G_N
+jaynge	hi	G_N
+
+Hi	en	G_PRT
+di	hi	G_V
+
+Are	hi	G_V
+apko	hi	G_N
+dhyan	hi	G_N
+rakhne	hi	G_N
+ka	hi	G_N
+shonk	hi	G_V
+hai	hi	G_V
+Jada	hi	G_N
+to	hi	PSP
+rakh	hi	G_V
+lo	hi	G_V
+aap	hi	G_X
+
+acha	hi	G_J
+
+km	hi	G_PRP
+bol	hi	G_N
+
+Han😡	hi	U
+
+Use	hi	G_V
+b	hi	G_V
+bola	hi	G_N
+karo	hi	G_V
+mera	hi	G_N
+rakhne	hi	G_N
+k	hi	G_X
+lye	hi	G_N
+
+pagal	hi	G_J
+mjhe	hi	G_N
+tm	hi	PSP
+dono	hi	G_SYM
+ka	hi	G_N
+khyl	hi	G_SYM
+h	hi	G_PRT
+
+Biased	en	G_J
+ho	hi	G_V
+ladkiyp	hi	G_PRP
+ki	hi	G_PRP
+taraf😡	hi	G_N
+
+Ladkiyo	hi	U
+
+okkkk	en	#
+babu	hi	G_N
+
+niii	hi	G_J
+re	hi	G_N
+
+Eeeeee😝🤗	univ	U
+
+🔫	univ	G_X
+
+🙄	univ	G_X
+
+or	hi	CC
+btaaa	hi	G_N
+
+sb	hi	G_PRP
+thik	hi	G_N
+???	univ	G_X
+
+Bas	hi	G_X
+sounga	hi	G_N
+ab	hi	G_X
+to	hi	G_PRT
+
+Sab	hi	G_N
+mast	hi	G_N
+hai	hi	G_V
+
+Thak	hi	G_N
+gaya	hi	G_N
+jaada	hi	G_N
+
+okkk	en	U
+
+Fir	hi	G_N
+se	hi	G_PRP
+assignment	en	G_V
+hai	hi	G_V
+ek	hi	G_SYM
+or	hi	CC
+
+I	en	G_PRP
+mean	en	G_V
+aur	hi	E
+
+okk	en	U
+
+chl	hi	G_J
+rest	en	G_N
+kr	hi	G_PRP
+le	hi	G_V
+
+kkk	en	U
+
+Chalo	hi	G_V
+to	hi	PSP
+rat	hi	G_V
+me	hi	G_PRP
+vaartalap	hi	G_R
+karte	hi	G_V
+hain	hi	G_V
+
+fir	hi	G_N
+pd	hi	G_N
+liyu	hi	G_V
+
+GunnitGunnite	en	#
+
+okkk	en	#
+bye	en	G_V
+
+gn	en	U
+
+😘	univ	G_X
+bye	en	G_PRT
+di	hi	G_V
+
+Hapy	en	G_R
+women's	en	G_N
+day	en	G_N
+di	hi	PSP
+
+thank	en	G_V
+u	en	G_PRP
+
+😘😘	univ	G_X
+
+gm	en	U
+
+😘gm	en	G_X
+di	hi	G_V
+
+Hiiiii	en	U
+
+hiii	en	U
+
+Kaisan	hi	G_N
+ba	hi	G_N
+?	univ	G_X
+
+mst	hi	G_J
+Hi	en	G_PRT
+
+gm	en	U
+
+Hi	en	G_PRT
+di😘	hi	G_V
+
+😡😡😡😡	univ	G_X
+
+Busy	en	G_J
+ho	hi	G_V
+?	univ	G_X
+
+hiiii	en	U
+
+kaise	hi	#
+ho	hi	G_V
+
+Mast	hi	G_J
+hu	hi	G_PRT
+di	hi	G_V
+
+Ap	hi	G_J
+suna	hi	G_N
+
+Sunao	hi	U
+
+thik	hi	G_N
+hu	hi	G_PRT
+
+aap	hi	G_X
+btao	hi	G_V
+
+Main	hi	G_R
+abhi	hi	G_N
+evaluation	en	G_N
+karwa	hi	G_N
+k	hi	G_X
+aaraha	hi	G_N
+hu	hi	G_V
+Prof	en	G_N
+ke	hi	G_PRP
+cabin	en	G_V
+se	hi	G_PRP
+
+😁	univ	G_X
+
+Or	hi	G_X
+class	en	G_V
+me	hi	G_PRP
+baitha	hi	G_N
+hun😁😁	hi	G_X
+
+Di	hi	G_N
+ram	hi	G_X
+ram	hi	G_X
+
+ram	hi	G_X
+ram	hi	G_X
+
+Kaisan	hi	G_N
+ba	hi	G_N
+
+mst	hi	G_N
+ba	hi	G_N
+
+aa	hi	PSP
+gy	hi	G_N
+tu	hi	PSP
+
+Yo	hi	G_PRT
+di	hi	G_V
+
+Agaya	hi	G_N
+ghra	hi	G_N
+pe	hi	PSP
+
+okkk	en	U
+
+Yoo	univ	G_PRT
+
+kb	hi	G_PRP
+aayega	hi	G_N
+???	univ	G_X
+
+Didi	hi	G_N
+..	univ	G_X
+Abhi	hi	G_N
+rmto	hi	G_N
+akka	hi	G_J
+nahi	hi	G_N
+hai	hi	G_V
+ki	hi	G_PRP
+kab	hi	PSP
+aaunga	hi	G_N
+..	univ	G_X
+
+Mujhe	hi	G_N
+kaam	hi	G_N
+bhi	hi	G_N
+bohot	hi	G_V
+Mia	hi	G_N
+hua	hi	G_V
+hai	hi	G_V
+.	univ	G_X
+
+to	hi	PSP
+aa	hi	DT
+jaiyu	hi	G_N
+chup	hi	G_N
+chap	hi	G_V
+
+Di	hi	G_N
+il	en	G_N
+try	en	G_V
+mah	en	DT
+best	en	G_J
+
+okk	en	U
+
+aa	hi	PSP
+jaiyu	hi	G_N
+
+uska	hi	G_N
+suit	en	G_J
+le	hi	G_V
+kr	hi	G_PRP
+jana	hi	G_N
+h	hi	G_X
+to	hi	PSP
+
+okkkk	en	U
+
+Accha	hi	G_N
+
+hmm	univ	G_PRT
+
+Aho	hi	G_J
+aho	hi	G_PRT
+
+hmmm	univ	G_PRT
+
+Kaise	hi	#
+ho	hi	G_V
+ap	hi	G_PRP
+di	hi	PSP
+
+Kya	hi	G_J
+kar	hi	G_V
+re	hi	G_N
+hi	hi	G_PRT
+?	univ	G_X
+
+Ho	hi	G_PRT
+
+kuch	hi	G_SYM
+ni	hi	G_PRT
+
+tv	en	#
+dekh	hi	G_N
+rhi	hi	G_N
+hu	hi	G_V
+
+Oho	en	U
+
+Ashok	en	G_N
+.	univ	G_X
+
+😝	univ	G_X
+
+niii	hi	U
+
+kumkum	en	G_N
+bhagya	hi	G_N
+
+Yar	hi	#
+..	univ	G_X
+Chee	hi	G_V
+
+Yakkk	hi	U
+
+kua	hi	#
+
+kya	hi	G_J
+
+Ye	hi	G_PRP
+kya	hi	G_N
+kya	hi	G_N
+serial	en	G_J
+dekhte	hi	G_V
+rehte	hi	G_V
+hain	hi	G_V
+
+kyu	hi	#
+acha	hi	G_J
+to	hi	PSP
+h	hi	G_V
+pagal	hi	G_N
+natak	hi	G_V
+
+Wese	hi	G_N
+mujhe	hi	G_PRP
+thik	hi	G_N
+lagta	hi	G_N
+hai	hi	G_V
+
+But	en	CC
+hw	en	G_N
+can	en	G_V
+u	en	G_PRP
+juss	en	G_V
+only	en	G_R
+watch	en	G_V
+serials	en	G_N
+..	univ	G_X
+
+for	en	PSP
+time	en	G_N
+passa	en	G_N
+
+Passa	hi	G_N
+
+Tamilla	ne	G_N
+?	univ	G_X
+
+na	hi	G_PRT
+
+pass	en	G_N
+
+Ahaaan	hi	G_N
+
+hmmm	univ	G_PRT
+
+Huu	univ	U
+
+Huu	univ	U
+
+hmmm	univ	G_PRT
+
+or	hi	CC
+
+Bas	hi	G_X
+vadyia	hi	G_N
+sab	hi	G_SYM
+
+aa	hi	PSP
+ja	hi	G_N
+mom	en	G_N
+se	hi	PSP
+b	hi	G_V
+mil	hi	G_N
+liyu	hi	G_N
+
+okk	en	U
+
+Han	hi	G_X
+di	hi	G_V
+.	univ	G_X
+Man	en	G_V
+to	hi	PSP
+bohot	hi	G_V
+hai	hi	G_V
+mera	hi	G_N
+ghimne	hi	G_N
+ka	hi	G_N
+
+Par	hi	G_X
+ye	hi	G_PRP
+kaam	hi	G_V
+hai	hi	G_V
+clg	en	G_N
+ka	hi	G_N
+..	univ	G_X
+
+to	hi	PSP
+aa	hi	DT
+ja	hi	G_N
+
+Cnfuzd	en	G_N
+hun	hi	G_V
+bohot	hi	G_V
+
+kr	hi	G_PRP
+liyu	hi	G_N
+
+dekh	hi	G_PRT
+le	hi	G_V
+
+Han	hi	G_V
+di	hi	G_V
+..	univ	G_X
+
+Ata	hi	G_J
+Ni	hi	G_N
+..	univ	G_X
+
+4	hi	PSP
+din	hi	G_X
+ki	hi	G_PRT
+chutti	hi	G_N
+hai	hi	G_V
+Ni	hi	CC
+..	univ	G_X
+Or	hi	G_X
+jaane	hi	G_N
+ka	hi	G_N
+man	hi	G_N
+har	hi	G_V
+jagah	hi	G_N
+hai	hi	G_V
+
+okkk	en	U
+
+aa	hi	PSP
+jaiyu	hi	G_N
+okkk	en	G_V
+
+i	en	G_PRP
+m	en	G_N
+waiting	en	G_V
+
+Han	hi	G_X
+di	hi	G_V
+aise	hi	G_R
+mat	hi	G_N
+bolo	hi	G_N
+
+Mera	hi	G_N
+to	hi	PSP
+khud	hi	G_V
+man	hi	G_N
+karta	hi	G_J
+hai	hi	G_V
+..	univ	G_X
+
+okkk	en	U
+
+Aan	hi	U
+
+Upset	en	G_J
+ho	hi	G_V
+kya	hi	G_J
+?	univ	G_X
+
+hmmmm	univ	G_PRT
+
+Kya	hi	G_J
+hua	hi	G_X
+?	univ	G_X
+
+kuch	hi	G_SYM
+ni	hi	G_PRT
+
+tu	hi	CC
+milne	hi	G_N
+ni	hi	G_PRT
+aa	hi	PSP
+rh	hi	G_N
+h	hi	G_X
+na	hi	G_PRT
+isliye	hi	G_N
+
+Bolo	hi	G_J
+
+Accha	hi	G_N
+
+Di	hi	G_N
+apki	hi	G_N
+kasan	hi	G_N
+
+Kasam	hi	U
+
+Main	hi	G_R
+jhuth	hi	G_N
+Ni	hi	G_PRP
+bol	hi	G_N
+ra	hi	G_N
+
+Abhi	hi	G_N
+b	hi	G_V
+bohot	hi	G_N
+kaam	hi	G_N
+hain	hi	G_V
+
+Ap	hi	G_J
+puja	hi	G_N
+se	hi	PSP
+puch	hi	G_SYM
+kena	hi	G_N
+
+ptaaa	hi	G_N
+h	hi	G_PRT
+b	hi	G_V
+
+babu	hi	G_N
+koi	hi	G_PRP
+ni	hi	G_PRT
+
+tu	hi	CC
+free	en	G_J
+ho	hi	G_V
+jye	hi	G_N
+to	hi	PSP
+btaaa	hi	G_V
+diyu	hi	PSP
+okkkk	en	G_V
+
+Di	hi	G_N
+sach	hi	G_V
+me	hi	G_PRP
+..	univ	G_X
+Main	hi	G_V
+thoda	hi	G_N
+future	en	G_N
+ki	hi	G_PRP
+tension	en	G_V
+me	hi	G_PRP
+bhi	hi	G_N
+hun	hi	G_V
+na	hi	G_PRT
+
+are	hi	G_V
+
+mt	hi	G_PRP
+le	hi	G_V
+pagal	hi	E
+
+Mm	hi	G_N
+keni	hi	G_N
+padti	hi	G_N
+hai	hi	G_V
+..	univ	G_X
+
+Leni	hi	U
+
+tention	en	G_N
+lene	hi	G_V
+se	hi	PSP
+kuch	hi	G_SYM
+ni	hi	G_PRT
+hota	hi	G_N
+
+hmmm	univ	G_PRT
+
+ye	hi	G_PRP
+to	hi	PSP
+h	hi	G_V
+bt	hi	CC
+fir	hi	G_V
+b	hi	G_V
+
+Hmm	univ	U
+
+Ab	hi	G_N
+summer	en	G_N
+training	en	G_N
+dekhni	hi	G_V
+hai	hi	G_V
+koi	hi	G_SYM
+acchi	hi	G_J
+si	hi	G_PRP
+or	hi	CC
+btaa	hi	G_N
+
+okkk	en	U
+
+Han	hi	G_V
+..	univ	G_X
+
+Bas	hi	G_X
+Kuch	hi	G_X
+ni	hi	G_PRT
+
+Gujiya	hi	G_N
+kha	hi	G_N
+lo	hi	G_V
+aajao	hi	G_N
+
+kyu	hi	U
+
+le	hi	G_V
+kr	hi	G_PRP
+aa	hi	PSP
+jaiyu	hi	G_N
+
+i	hi	G_PRP
+lv	hi	G_V
+gujiya😋	hi	G_V
+
+khana	hi	G_N
+khaa	hi	G_N
+liya	hi	G_N
+?	univ	G_X
+
+di	hi	G_PRP
+thik	hi	G_N
+h	hi	G_N
+??	univ	G_X
+
+Accha😅😅	hi	U
+
+namstei	hi	G_N
+bol	hi	G_N
+diyu	hi	G_SYM
+di	hi	PSP
+ko	hi	PSP
+b	hi	G_V
+fufa	hi	G_N
+g	hi	G_N
+ko	hi	PSP
+b	hi	G_V
+okkk	hi	G_PRP
+
+Aata	hi	G_J
+hu	hi	G_V
+to	hi	PSP
+launga	hi	G_V
+
+hmmmm	hi	G_PRT
+
+Ahaan	hi	G_N
+..	univ	G_X
+Gujiya	hi	G_N
+or	hi	CC
+namastey	hi	G_N
+uhh	hi	G_PRP
+
+okkkk	en	U
+
+😁😅😅😅	univ	G_X
+
+Bhukkad	hi	U
+
+hmmmm	hi	G_PRT
+
+😂😂😜	univ	G_X
+
+hmmm	hi	G_PRT
+
+Chaalu	hi	G_N
+ladki	hi	G_N
+
+hmmm	hi	G_PRT
+
+😡😡😡😡😡😡	univ	G_X
+
+Or	hi	G_X
+kya	hi	G_J
+..	univ	G_X
+😁😁😅😅😅	univ	G_X
+
+kyu	hi	G_PRP
+?	univ	G_X
+
+Are	hi	G_V
+koi	hi	G_PRP
+Ni	hi	G_J
+kha	hi	G_N
+kena	hi	G_N
+
+Lena	hi	G_N
+
+Ghar	hi	G_J
+nahi	hi	G_N
+aavoge	hi	G_N
+aa	hi	PSP
+?	univ	G_X
+
+okkk	en	U
+
+😊	univ	G_X
+
+aaungi	hi	G_J
+abhi	hi	G_N
+mom	en	G_N
+ki	hi	G_PRP
+tbiyt	hi	G_J
+khrb	hi	G_SYM
+h	hi	G_PRT
+
+bht	hi	U
+
+Kya	hi	G_J
+hua	hi	G_X
+mami	ne	G_N
+g	hi	G_N
+ko	hi	PSP
+?	univ	G_X
+
+di	hi	G_PRP
+se	hi	G_PRP
+puch	hi	G_SYM
+liyu	hi	G_N
+okkk	en	G_N
+
+Mammi	hi	G_N
+b	hi	G_V
+aisi	hi	G_N
+Hi	hi	G_V
+hain	hi	G_V
+..	univ	G_X
+Khud	hi	G_V
+b	hi	G_V
+bmar	hi	G_N
+gain	hi	G_V
+
+Hain	hi	U
+
+hmmm	univ	G_PRT
+
+Are	hi	G_V
+hmm	univ	G_PRT
+se	hi	PSP
+age	hi	G_V
+b	hi	G_V
+Kuch	hi	G_X
+bol	hi	G_X
+lo	hi	G_V
+
+kya	hi	G_J
+???	univ	G_X
+
+Hmm	univ	G_X
+hmm	univ	G_PRT
+kar	hi	G_V
+re	hi	G_N
+h	hi	G_X
+
+acha	hi	G_J
+
+Or	hi	G_X
+btaaa	hi	G_N
+
+Bas	hi	G_X
+abhi	hi	G_N
+dinner	en	G_N
+karke	hi	G_N
+aata	hi	G_J
+hu	hi	G_V
+
+okkk	en	U
+
+bye	en	G_PRT
+
+Hi	en	G_PRT
+
+hiii	en	U
+
+😁	univ	G_X
+
+Kya	hi	G_J
+haal😝😝	hi	G_V
+
+bdiya	hi	G_N
+
+Haha	univ	G_PRT
+
+Khana	hi	G_N
+hogya	hi	G_N
+?	univ	G_X
+
+hmmm	univ	G_PRT
+
+Namaskar	hi	G_N
+didi	hi	G_N
+
+Ki	hi	G_PRP
+haal	hi	G_N
+ba	hi	G_N
+
+ram	hi	G_X
+ram	hi	G_X
+bhai	hi	G_N
+
+bdiya	hi	G_N
+
+tm	hi	#
+btao	hi	G_N
+
+Bas	hi	G_X
+maje	hi	G_V
+me	hi	G_PRP
+
+okkk	en	U
+
+or	hi	CC
+bua	hi	G_N
+g	hi	G_N
+kaisi	hi	G_N
+h	hi	G_X
+
+Mammi	hi	G_N
+b	hi	G_V
+thk	hi	G_N
+thak	hi	G_V
+hain	hi	G_V
+..	univ	G_X
+Hospital	en	G_J
+gayi	hi	G_N
+hain	hi	G_V
+chachi	hi	G_N
+ka	hi	G_N
+xhekup	en	G_N
+karwane	hi	G_V
+
+okkk	en	U
+
+chachi	hi	G_N
+ko	hi	PSP
+kya	hi	G_J
+hua	hi	G_X
+
+Are	hi	G_V
+Kuch	hi	G_X
+hai	hi	G_V
+unko	hi	CC
+prblm	en	G_N
+..	univ	G_X
+
+okkkk	en	U
+
+or	hi	CC
+lucky	en	G_J
+bhai	hi	G_N
+gy	hi	G_N
+
+Na	hi	G_PRT
+na	hi	G_PRT
+
+Yahi	hi	G_N
+hai	hi	G_V
+abhi	hi	G_N
+to	hi	PSP
+
+okkk	en	U
+
+hello	en	G_PRT
+bol	hi	G_N
+de	hi	PSP
+
+fufa	hi	G_J
+g	hi	G_N
+ko	hi	PSP
+nmstei	hi	G_N
+
+Han	hi	G_X
+g	hi	G_N
+bilkul	hi	G_J
+namastey	hi	G_N
+
+hmmmm	univ	G_PRT
+
+good	en	G_J
+
+or	hi	CC
+btaaa	hi	G_N
+
+Movie	en	G_N
+dekh	hi	G_V
+raha	hi	G_N
+hun	hi	G_V
+..	univ	G_X
+Awara	hi	G_N
+pagal	hi	G_J
+diwana	hi	G_N
+
+okkkk	en	U
+
+wo	hi	G_PRT
+to	hi	PSP
+tu	hi	G_V
+h	hi	G_X
+
+😜	univ	G_X
+
+Han	hi	G_X
+SAI	hi	G_V
+hai	hi	G_V
+.	univ	G_X
+bilkul	hi	G_N
+
+hmmm	univ	G_PRT
+
+or	hi	CC
+bta	hi	G_J
+
+Bas	hi	G_N
+..	univ	G_X
+Aj	hi	G_X
+apna	hi	G_N
+project	en	G_N
+wrk	hi	G_V
+start	en	G_V
+karunga	hi	G_N
+
+okkk	en	U
+
+khtm	hi	G_PRP
+kr	hi	G_X
+jldi	hi	G_N
+
+Han	hi	G_X
+di	hi	G_V
+net	en	G_N
+pack	en	G_N
+Jada	hi	G_N
+chahye	hi	G_N
+uske	hi	G_N
+lye	hi	G_V
+na	hi	G_PRT
+
+hmmm	univ	G_PRT
+
+wifi	en	G_PRP
+ni	hi	G_PRT
+h	hi	G_PRT
+
+Nai	hi	G_PRT
+☹☹	univ	G_N
+
+yaha	hi	G_PRT
+ja	hi	G_N
+
+yhi	hi	G_PRP
+rh	hi	G_X
+liyu	hi	G_N
+kaaam	hi	G_V
+b	hi	G_V
+kr	hi	G_PRP
+liyu	hi	G_N
+
+Hahah	univ	G_PRT
+...	univ	G_X
+
+Acha	hi	G_N
+g	hi	G_N
+thk	hi	G_X
+h	hi	G_X
+
+hmmmm	univ	G_PRT
+
+to	hi	PSP
+btaa	hi	G_N
+kb	hi	G_PRP
+tk	hi	CC
+aayega	hi	G_N
+
+Aunga	hi	G_N
+didi	hi	G_N
+
+okkk	en	U
+
+chl	hi	G_J
+kaam	hi	G_N
+khtm	hi	G_N
+kr	hi	G_X
+
+Han	hi	G_X
+di	hi	G_V
+....	univ	G_X
+Bilkul	hi	G_X
+
+bilkuk	hi	G_N
+
+bilkul	hi	G_J
+
+Mammi	hi	G_N
+agyi	hi	G_N
+hain	hi	G_V
+
+okkk	en	U
+
+ram	hi	G_X
+ram	hi	G_X
+di	hi	G_V
+
+Hahahaha	univ	G_PRT
+
+😁😝	univ	G_X
+
+Gunjiya	hi	G_N
+khila	hi	G_N
+dunga	hi	G_N
+tension	en	G_N
+mat	hi	G_N
+lo	hi	G_N
+aa	hi	PSP
+
+Ap	hi	U
+😂😂😂😂😂😂	hi	G_X
+
+ho	hi	G_V
+gya	hi	G_N
+tera	hi	G_N
+
+pooja	ne	G_N
+ko	hi	PSP
+btau	hi	G_N
+???	univ	G_X
+
+Han	hi	G_X
+batau	hi	G_N
+
+Mai	hi	G_N
+Ni	hi	G_N
+darta	hi	G_N
+
+acha	hi	G_J
+
+ptaa	hi	G_N
+h	hi	G_PRT
+mjhe	hi	G_V
+
+To	hi	PSP
+acchi	hi	G_J
+bat	hi	G_N
+hai	hi	G_V
+na	hi	G_PRT
+
+hmmm	hi	G_PRT
+
+Hmm	hi	U
+
+or	hi	CC
+
+Movie	en	G_N
+again😁😁	en	G_X
+
+pdai	hi	G_N
+mt	hi	G_PRP
+kriyu	hi	G_N
+
+Hee	hi	#
+
+May	hi	G_V
+this	en	DT
+season	en	G_N
+of	hi	PSP
+color	hi	G_N
+bring	en	G_V
+you	en	G_PRP
+cheer	en	G_J
+and	en	CC
+happiness	en	G_V
+.	univ	G_X
+May	hi	G_V
+the	en	DT
+colors	hi	G_N
+of	hi	PSP
+the	en	DT
+Holi	hi	G_N
+continues	en	G_N
+to	hi	PSP
+illuminate	en	G_V
+your	en	DT
+life	ne	G_N
+and	en	CC
+
+guide	en	G_N
+you	en	G_PRP
+towards	hi	G_V
+the	en	DT
+path	univ	G_N
+of	hi	PSP
+success	en	G_N
+.	univ	G_X
+Happy	en	G_J
+Holi	hi	G_N
+!	univ	G_X
+😊😊😊	hi	G_X
+
+Abbe	hi	G_N
+o	hi	CC
+
+Haa	hi	G_PRT
+
+Kidde	hi	G_N
+jal	hi	G_N
+
+Ha	hi	G_PRT
+
+Hal	en	U
+
+Bdiya	hi	G_N
+tu	hi	PSP
+bta	hi	G_N
+
+Gzb	hi	G_N
+agay	hi	G_N
+
+Hum	hi	G_N
+to	hi	PSP
+
+Ohh	hi	G_PRT
+
+Gn	hi	U
+
+Direct	en	G_J
+gn	hi	G_V
+
+😂😂	hi	G_X
+
+Hhaha	univ	G_PRT
+
+Esa	hi	G_N
+Hi	hi	G_PRT
+kuch	hi	G_SYM
+
+Heheh	hi	G_PRT
+
+Or	hi	G_X
+suna	hi	G_N
+
+Bs	hi	G_V
+yr	hi	G_N
+bdiya	hi	G_V
+
+Tu	hi	#
+bta	hi	G_N
+
+M	hi	$
+v	hi	G_X
+
+Vdya	hi	G_PRT
+
+Dp	hi	G_N
+cute	en	G_J
+h	hi	G_X
+Teri	hi	G_N
+balika	univ	G_N
+
+Kya	hi	G_J
+baat	hi	G_N
+hai	hi	G_V
+ini	univ	G_PRP
+aachi	hi	G_J
+hai	hi	G_V
+kya	hi	G_N
+
+😂😂	hi	G_X
+
+Ab	hi	G_N
+bol	hi	G_N
+rahe	hi	G_V
+hai	hi	G_V
+
+SB	hi	G_N
+?	univ	G_X
+Ya	hi	G_N
+ab	hi	PSP
+?	univ	G_X
+
+Sb*😜	univ	U
+
+😅	hi	G_X
+
+Aâpke	hi	G_J
+life	ne	G_N
+mein	hi	G_N
+mithââs	hi	G_N
+ho	hi	G_V
+“Câdbury	hi	G_N
+Silk”	hi	G_N
+jâise	en	G_N
+
+Rounak	en	G_N
+ho	hi	G_V
+“	hi	G_PRP
+Berger	ne	G_N
+silk”	hi	G_N
+jâise	en	G_N
+
+Mehak	hi	G_N
+ho	hi	G_V
+“GUCCI	hi	G_PRP
+”	hi	G_N
+jaise	hi	G_N
+
+Tazgi	hi	G_N
+ho	hi	G_N
+“Colgate”	en	G_PRP
+jaise	hi	G_N
+free	en	G_J
+rahe	hi	G_V
+“Huggies”	univ	G_V
+jâise	en	G_N
+!	univ	G_X
+HÂPPŸ	hi	G_X
+NEW	en	G_J
+YEÂR	hi	G_N
+06	hi	$
+
+Regards	hi	G_V
+
+Priya	univ	G_N
+chawla	univ	G_N
+Hny	hi	G_R
+to	hi	PSP
+you	en	G_PRP
+n	hi	CC
+ur	hi	DT
+family	ne	G_N
+Stay	en	G_R
+fit	hi	G_J
+n	hi	CC
+fine	en	G_J
+
+Ty😊	hi	G_X
+Hi	hi	G_PRT
+
+Hi	hi	G_PRT
+Bye😝😝😝	hi	G_N
+
+Kya	hi	G_J
+by	hi	PSP
+Maje	hi	G_V
+
+Paga	hi	G_N
+😝	hi	G_X
+Or	hi	G_X
+suna	hi	G_N
+
+Bs	hi	G_V
+bdiy	hi	G_N
+Oy	hi	PSP
+kon	hi	G_PRP
+c	hi	G_N
+trphy	hi	G_N
+??	univ	G_X
+
+Ca	hi	G_N
+me	hi	G_PRP
+mili	hi	G_N
+gaana	hi	G_N
+gaya	hi	G_N
+th	hi	PSP
+Are	hi	G_V
+gud	hi	G_N
+gud	hi	G_N
+Chhori	hi	G_N
+k	hi	G_X
+haal	hi	G_N
+
+Bdiya	hi	G_N
+tu	hi	PSP
+bta	hi	G_J
+😵😵	hi	G_X
+Itti	hi	G_N
+jldi	hi	G_N
+reply	en	G_V
+Kya	hi	G_N
+bat	hi	G_N
+
+😜😜	hi	G_X
+
+Abe	hi	G_V
+bs	hi	G_V
+asa	hi	G_N
+hi	hi	G_N
+mera	hi	G_N
+Han	hi	G_N
+beta	hi	G_N
+Congos	en	G_N
+Gaane	hi	G_N
+k	hi	G_X
+liye	hi	PSP
+
+Teko	hi	G_N
+kese	hi	G_V
+pta	hi	G_J
+?	univ	G_X
+Beta	hi	G_N
+joote	en	G_N
+khaoge	hi	G_N
+?	univ	G_X
+Tumne	hi	G_N
+Hi	hi	G_PRP
+btaya	hi	G_N
+👞👞👢👢	hi	G_X
+
+Aacha😜😜	hi	G_N
+😄😄😄	hi	G_X
+Ye	hi	G_PRP
+tre	hi	G_V
+bhratra	hi	G_N
+h	hi	G_X
+?	univ	G_X
+Ya	hi	G_N
+mitra	hi	G_N
+?	univ	G_X
+
+Mitra	hi	G_N
+Wah	hi	G_N
+..	univ	G_X
+Apratim	en	E
+
+Kya	hi	G_J
+hua	hi	G_V
+teko	hi	CC
+Abe	hi	G_V
+Hindi	hi	G_N
+hai	hi	G_V
+Apratim	en	CC
+=	hi	G_X
+ati	hi	G_N
+sundat	hi	G_J
+Sundar	hi	G_N
+
+Are	hi	G_V
+tbhi	hi	G_N
+to	hi	PSP
+pucha	hi	G_V
+ki	hi	G_PRP
+hindi	hi	G_J
+kes	hi	G_N
+Are	hi	G_V
+mera	hi	G_N
+shonk	hi	G_V
+h	hi	G_PRT
+M	hi	G_V
+a	hi	DT
+linguist	en	G_J
+Telugu	hi	G_N
+bolun	hi	G_N
+kya	hi	G_N
+??	univ	G_X
+😉😉😉😉	hi	G_X
+
+Ohhh	hi	G_PRT
+
+Ha	hi	G_PRT
+bolio	hi	G_N
+jara	hi	G_N
+Ela	hi	G_N
+unnaru	hi	G_J
+ra	hi	PSP
+pilla	en	G_N
+?	univ	G_X
+Inka	hi	G_N
+em	hi	G_PRP
+chestunnav	hi	G_N
+?	univ	G_X
+
+Tamil	ne	G_N
+teri	hi	G_N
+yadda😜😜	hi	G_X
+Nai	hi	G_V
+..	univ	G_X
+Har	hi	G_X
+pal	univ	G_V
+Teri	hi	G_N
+yadda😝😝😝😝	hi	G_X
+yadda	hi	G_N
+wich	hi	PSP
+h	hi	G_PRT
+tu	hi	PSP
+Tamil	ne	G_N
+kaha	hi	G_N
+aya	hi	G_J
+game	en	G_V
+me	hi	G_PRP
+?	univ	G_X
+
+😜😜	hi	G_X
+
+Abe	hi	G_V
+bhai	hi	G_N
+ne	hi	PSP
+sikahya	hi	G_N
+tha	hi	G_X
+agr	hi	G_X
+tamik	ne	G_X
+nai	hi	G_V
+aati	hi	G_N
+to	hi	PSP
+bolte	hi	G_V
+hai	hi	G_V
+tamil	ne	CC
+teri	hi	G_N
+yada	hi	G_N
+Han	hi	G_V
+malum	ne	G_V
+hai	hi	G_V
+Maje	hi	G_N
+lera	hi	G_N
+tha	hi	G_SYM
+Tariyadi	hi	G_N
+bolte	hi	G_N
+h	hi	G_PRT
+..	univ	G_X
+Precisely	en	G_R
+😊😊😊	hi	G_X
+
+Abe	hi	G_V
+pata	hi	G_N
+na	hi	G_V
+
+😜😜	hi	G_X
+Hehhe	hi	G_N
+
+Salle	en	G_J
+yaha	hi	G_N
+aaya	hi	G_J
+hua	hi	G_V
+hai	hi	G_V
+
+Mila	hi	G_N
+bhi	hi	G_N
+nai	hi	G_V
+Abe	hi	G_V
+tu	hi	PSP
+kidar	hi	G_N
+milna	hi	G_N
+h	hi	G_X
+bta	hi	G_N
+dde	hi	G_N
+Mil	hi	G_N
+lenge	hi	G_V
+
+Ohhh	hi	G_N
+kya	hi	G_J
+baat	hi	G_N
+Tu	hi	PSP
+chitegi	en	G_N
+..	univ	G_X
+Rat	hi	G_N
+k	hi	G_X
+04	hi	$
+par	hi	G_N
+ek	hi	G_PRP
+ladke	hi	G_N
+ko	hi	PSP
+salla	en	G_N
+bolti	hi	G_N
+h	hi	G_PRT
+..	univ	G_X
+report	en	G_V
+kra	hi	G_N
+sunga	hi	G_N
+Dunga	hi	G_N
+0:4	univ	$
+
+😜😜😜	hi	G_X
+
+Heheh	hi	G_X
+Jb	hi	G_N
+milna	hi	G_N
+ho	hi	G_V
+to	hi	G_PRT
+bta	hi	G_V
+diyo	hi	G_V
+H	hi	G_X
+naa	hi	G_N
+Bahutosh	hi	G_N
+k	hi	G_X
+ghr	hi	G_N
+hota	hi	G_V
+hua	hi	G_V
+mil	hi	G_N
+lunga	hi	G_N
+
+Aacha	hi	G_N
+g	hi	G_N
+yr	hi	G_N
+time	en	G_N
+ki	hi	G_PRP
+bdi	hi	G_V
+dikat	hi	G_V
+hai	hi	G_V
+Same	en	G_J
+here😄😄😄	en	G_X
+
+😜😜	hi	G_X
+Anyways	en	G_N
+...	univ	G_X
+Tu	hi	PSP
+suna	hi	G_N
+or	hi	CC
+Kuch	hi	G_SYM
+Bhai	hi	G_N
+ka	hi	G_N
+mn	hi	G_N
+lg	hi	G_N
+gya	hi	G_N
+kaali	hi	G_N
+khoobsurati	hi	G_N
+me	hi	G_PRP
+??	univ	G_X
+
+Haa	hi	G_N
+lag	hi	G_N
+hi	hi	G_PRT
+gya	hi	G_N
+Are	hi	G_V
+bhai😔	hi	G_N
+Bohot	hi	G_N
+kaala	hi	G_N
+sona	hi	G_X
+hai	hi	G_V
+😝😝😝😝	hi	G_X
+Jaha	hi	G_N
+jao	hi	G_N
+waha	hi	G_N
+
+Mtlb	hi	G_N
+Kaali	hi	G_N
+pariyaan	hi	G_N
+Black	en	G_X
+beauty	hi	G_N
+
+Ohhhh	hi	G_PRT
+mai	hi	G_N
+nai	hi	G_V
+gyi	hi	G_N
+Jaana	hi	G_N
+b	hi	G_V
+mat	hi	G_N
+..	univ	G_X
+Pagal	hi	G_N
+ho	hi	G_V
+jygi	hi	G_N
+
+Oh	hi	G_PRT
+ok😜😜	hi	G_N
+Hmm	hi	G_X
+Nai	hi	G_N
+itna	hi	G_N
+b	hi	G_V
+ni	hi	G_PRT
+SAI	hi	G_X
+h	hi	G_X
+beta	hi	G_N
+
+Kya	hi	G_J
+sai	hi	G_PRP
+hai	hi	G_V
+re	hi	G_N
+
+Gud	hi	G_N
+mrn	hi	G_N
+Gud	hi	G_N
+mrng	hi	G_N
+
+Ab	hi	G_N
+noon	hi	G_N
+ho	hi	G_V
+raha	hi	G_V
+ha	hi	G_V
+Jab	hi	G_X
+jago	hi	G_N
+tab	hi	CC
+subah	hi	G_N
+.	univ	G_X
+😉	hi	G_X
+
+Oh	hi	G_PRT
+Han	hi	G_V
+.	univ	G_X
+Or	hi	G_X
+kya	hi	G_J
+kar	hi	G_X
+ri	hi	G_V
+hai	hi	G_V
+
+Bs	hi	G_V
+yr	hi	G_N
+audit	hi	G_N
+pe	hi	PSP
+h	hi	G_X
+Kahe	hi	G_N
+ke	hi	G_PRP
+audit	hi	G_J
+pe	hi	PSP
+,	hi	G_X
+?	univ	G_X
+
+Kec	hi	G_J
+college	hi	G_N
+
+Mohan	hi	G_N
+naga	hi	G_N
+Are	hi	G_V
+kya	hi	G_J
+kar	hi	G_PRP
+ri	hi	G_N
+h	hi	G_PRT
+..	univ	G_X
+I	hi	G_PRP
+mean	en	G_V
+explain	hi	G_V
+kar	hi	G_X
+thoda	hi	G_N
+
+Abe	hi	G_V
+hr	hi	G_N
+nd	hi	CC
+accounts	en	G_V
+me	hi	G_PRP
+checking	en	G_V
+
+Nd	hi	G_J
+labs	hi	G_V
+store	en	G_N
+me	hi	G_PRP
+checking	en	G_V
+
+Cash	hi	G_N
+bank	hi	G_N
+tax	hi	CC
+nd	hi	CC
+all	en	DT
+
+Hr	hi	G_V
+me	hi	G_PRP
+leave	en	G_V
+theek	hi	G_V
+hai	hi	G_V
+ya	hi	G_PRT
+nai	hi	G_V
+
+Lab	hi	G_V
+me	hi	G_PRP
+items	en	G_N
+ka	hi	G_N
+rs	hi	G_V
+sai	hi	G_PRP
+hai	hi	G_V
+ya	hi	G_PRT
+nqi	hi	G_N
+
+Nd	hi	G_J
+al	hi	G_N
+To	hi	PSP
+kec	hi	G_PRP
+ne	hi	PSP
+allow	hi	G_N
+kar	hi	G_X
+diya	hi	G_N
+tumhe	hi	G_V
+?	univ	G_X
+
+Hum	hi	G_X
+unke	hi	G_N
+auditor	en	G_J
+hai	hi	G_V
+yr	hi	G_N
+
+Unhone	hi	G_N
+appoint	hi	G_N
+kara	hi	G_N
+ha	hi	G_PRT
+Ohho	hi	G_N
+..	univ	G_X
+Ye	hi	G_PRP
+bat	hi	G_X
+ha	hi	G_PRT
+Wo	hi	G_R
+CA	hi	G_N
+wale	hi	G_N
+students	en	G_N
+ko	hi	PSP
+appoint	hi	G_N
+karte	hi	G_V
+hain	hi	G_V
+ky@	univ	G_PRP
+?	univ	G_X
+
+Ha	hi	G_PRT
+Gud	hi	G_N
+
+Hnhi	hi	U
+
+Hnji	hi	G_N
+Han	hi	G_X
+g	hi	G_N
+dasso	en	G_N
+
+Ki	hi	G_PRP
+dassa	hi	G_N
+Kujh	hi	G_X
+v	hi	G_X
+das	hi	G_N
+lae	hi	G_V
+kudiye	hi	G_N
+😄😄😄😄😄	hi	G_X
+
+Are	hi	G_V
+baalikay	hi	G_N
+
+😝	hi	G_X
+Ha	hi	G_PRT
+balam	hi	G_N
+Balak	hi	G_X
+
+Balam😝😝😝😝😝😝😝😝	hi	U
+
+Abe	hi	G_V
+main	hi	G_N
+balam	hi	G_N
+hu	hi	G_N
+kya	hi	G_J
+???	univ	G_X
+😜😜😜😜😜😜😜😜😜	hi	G_X
+😂😂	hi	G_X
+Galti	hi	G_N
+
+Na	hi	G_J
+g	hi	G_N
+na	hi	G_PRT
+..	univ	G_X
+Irade	univ	G_N
+nake	en	G_N
+na	hi	G_PRT
+hann😝😝😝😝😝😝😝😝	hi	$
+Nake	en	G_N
+ha8	hi	G_V
+
+Lag	hi	G_V
+to	hi	PSP
+na	hi	G_PRT
+re😜😜😜😜😜😜😜	hi	G_X
+Kya	hi	G_N
+lag	hi	G_V
+raha	hi	G_V
+hai	hi	G_V
+
+Beta	hi	G_N
+balam	hi	G_N
+Hi	hi	G_PRP
+lag	hi	G_V
+ra	hi	PSP
+hai	hi	G_V
+😝😝😝😝😝😝😝😝😝😝😝😝	hi	G_X
+Nah	hi	G_J
+re	hi	G_N
+
+Han	hi	G_X
+re😆😆😆😆😆😆	hi	G_V
+Hi	hi	G_PRP
+
+Hello	en	G_J
+ji	hi	G_N
+Chal	hi	G_N
+bye😜😜😜😜😜😜😜😜😜😜😜😜😜	hi	G_N
+Class	en	G_V
+hai	hi	G_V
+
+Heheh	hi	G_X
+bye	hi	G_V
+Happy	en	G_J
+lohri	hi	G_N
+..	univ	G_X
+😘😘	hi	G_X
+Ram	univ	G_N
+ram	univ	G_X
+Bhai	hi	G_N
+..	univ	G_X
+
+Agayeghaziabad	hi	U
+
+Ram	univ	G_N
+ram	univ	G_X
+ji	hi	G_N
+
+Bhai	hi	G_N
+decide	en	G_N
+kro	hi	E
+
+To	hi	PSP
+sbhi	hi	G_V
+milte	hi	G_N
+h	hi	G_X
+kbhi	hi	G_N
+
+😊	hi	G_X
+
+Han	hi	G_X
+Bhai	hi	G_N
+...	univ	G_X
+
+Bikull	hi	G_J
+Haha	univ	G_N
+Burger	hi	G_N
+ek	hi	G_PRP
+or	hi	CC
+bhukhe	hi	G_N
+😅😂	hi	G_X
+Bhut	hi	G_N
+nainsaafi	hi	G_N
+h	hi	G_X
+re😜😅😅	hi	G_V
+
+Hahahaha	univ	G_PRT
+
+Han	hi	G_X
+Bhai	hi	G_N
+esa	hi	G_N
+Hi	hi	G_PRP
+Kuch	hi	G_X
+tha	hi	DT
+😅😅😂	hi	G_X
+Haha	univ	G_N
+☺	hi	G_N
+Sahi	hi	G_N
+h	hi	G_X
+bhai	hi	G_N
+But	en	CC
+mko	hi	G_N
+b	hi	G_V
+Burger	hi	G_X
+psnd	hi	G_N
+h	hi	G_PRT
+re	hi	PSP
+Mko	hi	G_V
+to	hi	PSP
+bulaya	ne	G_V
+b	hi	G_V
+nhi	hi	G_N
+kamine😠😟	hi	G_X
+
+Are	hi	G_V
+.	univ	G_X
+Yar	hi	E
+..	univ	G_X
+Ye	hi	G_PRP
+bahutosh	hi	G_N
+or	hi	CC
+vishal	hi	G_J
+jab	hi	G_N
+ek	hi	G_PRP
+sath	univ	G_N
+milte	hi	G_V
+hain	hi	G_V
+esa	hi	G_N
+bada	hi	G_N
+kam	hi	G_X
+hota	hi	G_V
+h	hi	G_PRT
+..	univ	G_X
+Or	hi	G_X
+uspe	hi	G_N
+bhi	hi	G_N
+mammi	hi	G_N
+mujhe	hi	G_N
+bahar	hi	G_N
+jaane	hi	G_N
+de	hi	G_V
+..	univ	G_X
+or	hi	CC
+b	hi	G_V
+nushkil	hi	G_N
+Hmm	hi	G_X
+Chal	hi	G_V
+koi	hi	G_PRP
+nhi	hi	G_J
+bhai	hi	G_N
+
+Bde	hi	G_N
+log	hi	G_N
+bhai	hi	G_N
+bde	hi	G_N
+log😁	hi	G_X
+
+😔😕	hi	G_X
+
+Are	hi	G_V
+Bhai	hi	G_N
+ese	hi	G_V
+na	hi	G_PRT
+keh	hi	$
+...	univ	G_X
+
+Milne	hi	G_N
+ka	hi	G_N
+plan	en	G_V
+banaynge	hi	G_N
+..	univ	G_X
+
+Tension	ne	G_N
+na	hi	G_PRT
+ke	hi	G_PRP
+
+Mujhe	hi	G_N
+lambi	hi	G_N
+chutti	hi	G_N
+OE	hi	G_X
+aane	hi	G_N
+de	hi	PSP
+
+Abhi	hi	G_N
+to	hi	PSP
+main	hi	G_N
+hafte	hi	G_V
+bhar	hi	G_N
+hi	hi	G_PRT
+aaya	hi	G_N
+hu	hi	G_V
+
+Hmm	hi	U
+
+Koi	hi	G_N
+nhi	hi	G_V
+
+Hafta	hi	G_J
+bht	hi	G_V
+h	hi	G_X
+bhai	hi	G_N
+
+😉😊	hi	G_X
+
+Milte	hi	G_N
+h	hi	G_PRT
+holi	hi	G_N
+bad	hi	G_J
+hi	hi	G_PRT
+
+Han	hi	G_X
+yar	hi	G_PRT
+
+Or	hi	G_X
+mere	hi	G_V
+projects	en	G_N
+bhi	hi	G_N
+bohot	hi	G_V
+hain😭😭😭	hi	G_X
+
+Ohoo	univ	G_PRT
+bhai	hi	G_N
+
+😁	hi	G_X
+
+Chal	hi	G_J
+dekhiyo	hi	G_V
+
+Tym	hi	G_X
+nikal	hi	G_J
+k	hi	G_X
+bhai	hi	G_N
+
+Isi	hi	G_N
+week	en	G_N
+me	hi	G_PRP
+
+Lata	ne	G_N
+b	hi	G_V
+bol	hi	G_X
+rhi	hi	G_N
+thi	hi	G_V
+bht	hi	G_V
+din	hi	G_V
+se	hi	G_PRP
+
+Bhai	hi	G_N
+nikalna	hi	G_J
+padta	hi	G_J
+hai	hi	G_V
+warna	hi	G_N
+mai	hi	G_N
+.	univ	G_X
+To	hi	PSP
+bed	hi	G_V
+se	hi	G_PRP
+uthu	hi	G_PRP
+hi	hi	$
+na	hi	G_PRT
+
+Hmm	hi	U
+
+Nikalna	hi	G_N
+pdega	hi	G_N
+tjhe	hi	G_N
+kamine	hi	G_N
+
+Kitna	hi	G_N
+aalsi	hi	G_N
+bnega	hi	G_N
+
+😑	hi	G_X
+
+Ek	hi	CC
+week	en	G_N
+m	hi	G_V
+b	hi	G_V
+alsi	en	G_N
+pan😅😅	hi	G_N
+
+Are	hi	G_V
+Bhai	hi	G_N
+mammi	hi	G_N
+pit	hi	G_N
+pit	hi	G_N
+k	hi	G_X
+nahane	hi	G_N
+k	hi	G_X
+liye	hi	PSP
+bheja	hi	G_N
+aaj😅😅😅	hi	G_N
+Haha	univ	G_N
+Sahi	hi	G_N
+kiya	hi	G_N
+Tu	hi	PSP
+isi	hi	PSP
+layk	hi	G_V
+h	hi	G_PRT
+bhai😅😉😆😂	hi	G_N
+Is	hi	G_V
+bar	hi	G_V
+me	hi	G_PRP
+to	hi	PSP
+aunty	en	G_N
+k	hi	G_X
+sath	univ	G_N
+hu😉😅🤓😎	hi	G_V
+
+Hahahaha	univ	G_PRT
+
+Or	hi	G_X
+suba	hi	G_N
+
+Suna	hi	G_N
+Bs	hi	G_V
+bhai	hi	G_N
+Ghr	hi	G_N
+pe	hi	PSP
+Mmy	hi	G_N
+ki	hi	G_PRP
+help	hi	G_V
+😉😉	hi	G_X
+
+Ohhoh	hi	G_N
+Hrhe	hi	G_N
+Aaja	hi	G_N
+bhai	hi	G_N
+Gujiya	hi	G_N
+khale😉	hi	G_N
+Mne	hi	G_N
+bnayi	hi	G_N
+h	hi	G_X
+😃	hi	G_X
+
+Same	en	G_J
+here	en	G_R
+bhai	hi	G_N
+
+Word	en	G_N
+to	hi	PSP
+word	en	G_V
+
+😁😁	hi	G_X
+
+Kha	hi	G_N
+le	hi	G_V
+tu	hi	PSP
+b	hi	G_V
+Hehe😅😅	hi	G_X
+Bilkul	hi	G_N
+bhai	hi	G_N
+Thodi	hi	G_N
+or	hi	CC
+jada	hi	G_N
+c	hi	G_N
+bna	hi	G_N
+
+Humbey	hi	G_R
+or	hi	CC
+kya	hi	G_J
+Tb	hi	G_N
+khaunga	hi	G_N
+Dher	en	G_N
+sari	hi	G_N
+😉	hi	G_X
+
+Chhere	en	G_R
+kag	hi	G_V
+jange	hi	G_N
+toe	hi	G_N
+
+Lag	hi	G_N
+Hrami	ne	G_N
+😏😒😒	hi	G_X
+😅😂	hi	G_X
+
+💩💩	hi	G_X
+😛😛	hi	G_X
+😷😷😷😷	hi	G_X
+👻👻👻	hi	G_X
+
+Are	hi	G_V
+Bhai	hi	G_N
+badboo	hi	G_N
+q	hi	G_N
+faia	univ	G_J
+raha	hi	G_V
+hai	hi	G_V
+
+Faila	hi	G_N
+😁	hi	G_X
+Bhai	hi	G_N
+wo	hi	G_V
+b	hi	G_V
+spcl	hi	G_N
+offer	hi	G_N
+h	hi	G_PRT
+😅😅	hi	G_X
+Badbu	hi	G_N
+b	hi	G_V
+bs	hi	G_N
+kallupura	en	G_N
+walo	hi	G_V
+k	hi	G_X
+liye😉😆😅	hi	G_N
+👻💀👻	hi	G_X
+
+Kutte	en	#
+
+Kamine	hi	G_N
+😅😅	hi	G_X
+Haha	univ	G_N
+😆😆😜	hi	G_X
+
+May	hi	G_V
+this	en	DT
+season	en	G_N
+of	hi	PSP
+color	hi	G_N
+bring	en	G_V
+you	en	G_PRP
+cheer	en	G_J
+and	en	CC
+happiness	en	G_V
+.	univ	G_X
+May	hi	G_V
+the	en	DT
+colors	hi	G_N
+of	hi	PSP
+the	en	DT
+Holi	hi	G_N
+continues	en	G_N
+to	hi	PSP
+illuminate	en	G_V
+your	en	DT
+life	ne	G_N
+and	en	CC
+
+guide	en	G_N
+you	en	G_PRP
+towards	hi	G_V
+the	en	DT
+path	univ	G_N
+of	hi	PSP
+success	en	G_N
+.	univ	G_X
+Happy	en	G_J
+Holi	hi	G_N
+!	univ	G_X
+😊😊😊	hi	G_X
+May	hi	G_V
+god	hi	G_N
+gift	hi	G_N
+u	hi	G_PRP
+all	en	DT
+the	en	DT
+colors	hi	G_N
+of	hi	PSP
+life	ne	G_N
+,	hi	G_X
+Colors	hi	G_N
+of	hi	PSP
+joy	hi	G_N
+,	hi	G_X
+Colors	hi	G_N
+of	hi	PSP
+happiness	en	G_N
+,	hi	G_X
+Colors	hi	G_N
+of	hi	PSP
+friendship	en	G_N
+,	hi	G_X
+Colors	hi	G_N
+of	hi	PSP
+luv	hi	G_N
+and	en	CC
+All	en	DT
+other	en	G_J
+colors	hi	G_N
+U	hi	G_PRP
+want	en	G_V
+to	hi	PSP
+paint	en	G_V
+in	hi	PSP
+ur	hi	DT
+life	ne	G_N
+.	univ	G_X
+Happy	en	G_J
+holi	hi	G_N
+.	univ	G_X
+🤗	hi	G_X
+Wishing	en	G_V
+You	en	G_PRP
+And	en	G_V
+Your	en	DT
+Family	ne	G_R
+A	hi	DT
+Very	en	G_J
+Bright	en	G_N
+,	hi	G_X
+Colourful	hi	G_J
+And	en	CC
+
+Joyful	hi	G_J
+Holi	hi	G_N
+With	en	PSP
+Love	en	G_N
+And	en	CC
+Best	en	G_J
+Wishes	en	G_N
+!	univ	G_X
+
+😁😁	hi	G_X
+
+Hi	hi	G_PRT
+bhayya	hi	G_N
+
+Hanji	hi	U
+
+Janab	ne	U
+
+Bhaiyya	hi	G_N
+iPhone	en	G_N
+kitne	hi	G_PRP
+ka	hi	G_N
+liya	hi	G_N
+aapne	hi	G_PRP
+
+??	univ	G_X
+
+Bhai	hi	G_N
+Black	en	G_X
+Friday	en	G_N
+ki	hi	G_PRP
+deal	hi	G_J
+mein	hi	G_N
+mila	hi	G_N
+Kaafi	hi	G_N
+sastaa	en	G_N
+
+Kitne	hi	G_N
+mei	hi	G_N
+mila	hi	G_N
+bhayya	hi	G_N
+
+Around	en	G_N
+45000	hi	$
+ka	hi	G_N
+.	univ	G_X
+
+Phir	hi	G_X
+bhi	hi	G_N
+
+India	ne	G_N
+mein	hi	G_N
+around	en	PSP
+65k	hi	$
+ka	hi	G_N
+hai	hi	G_V
+.	univ	G_X
+
+Phir	hi	G_N
+se	hi	G_PRP
+aayegi	hi	G_PRP
+kya	hi	G_J
+bhaiyya	hi	G_N
+deal	hi	G_J
+
+Hahaha	univ	G_PRT
+
+Next	en	G_J
+year😜	en	G_PRT
+
+Haan	hi	G_R
+shayad	hi	G_N
+Jumia	hi	G_N
+ki	hi	G_PRP
+anniversary	en	G_J
+acne	hi	G_N
+wali	hi	G_V
+hai	hi	G_V
+.	univ	G_X
+To	hi	PSP
+shayad	hi	G_V
+phir	hi	G_SYM
+aaye	hi	G_N
+sale	hi	G_N
+.	univ	G_X
+
+Kise	hi	G_J
+Lena	hi	G_N
+hai	hi	G_V
+.	univ	G_X
+
+Dost	hi	G_J
+ne	hi	PSP
+pucha	hi	G_N
+tha	hi	G_X
+
+Hmm	hi	G_PRT
+.	univ	G_X
+
+May	hi	G_V
+be	hi	G_V
+I	hi	G_PRP
+heard	en	G_V
+next	en	G_J
+week	en	G_N
+aayegi	hi	G_N
+sale	hi	G_N
+dubara	hi	G_N
+.	univ	G_X
+
+Mac	hi	G_N
+book	hi	G_V
+air	hi	G_X
+kitne	hi	G_PRP
+lagegi	hi	G_N
+bhayya	hi	G_N
+
+But	en	CC
+not	en	G_R
+like	en	PSP
+black	en	G_J
+friday	en	G_N
+.	univ	G_X
+
+May	hi	G_V
+be	hi	G_V
+the	en	DT
+discounts	en	G_N
+are	hi	G_V
+less	en	G_V
+.	univ	G_X
+
+Acha	hi	G_N
+
+MacBook	hi	G_N
+Air	hi	DT
+pro	en	G_V
+.	univ	G_X
+
+Mac	hi	G_N
+book	hi	G_V
+air	hi	E
+
+Pro	en	G_N
+nahi	hi	G_N
+bhayya	hi	G_V
+
+http://695048	univ	U
+
+Check	en	G_V
+this	en	G_PRP
+.	univ	G_X
+👆	hi	G_X
+
+Bhaiyya	hi	G_N
+air	hi	G_X
+
+Bhaiyya	hi	G_N
+rupees	ne	G_N
+mei	hi	G_PRP
+kitna😜	hi	G_X
+
+Bhai	hi	G_N
+pata	hi	G_J
+nahi	hi	G_N
+.	univ	G_X
+
+I	hi	G_PRP
+am	hi	G_V
+not	en	G_R
+a	hi	DT
+real	en	G_J
+fanatic	hi	G_N
+of	hi	PSP
+Apple	hi	G_N
+.	univ	G_X
+
+Just	en	G_R
+bought	en	G_V
+this	en	DT
+phone	en	G_N
+as	hi	PSP
+I	hi	G_PRP
+got	en	G_V
+a	hi	DT
+good	en	G_J
+deal	hi	G_N
+.	univ	G_X
+
+Thik	hi	G_N
+h	hi	G_PRT
+bhayya	hi	G_N
+
+Divided	en	G_V
+by	hi	PSP
+4	hi	PSP
+
+Thik	hi	G_N
+h	hi	G_PRT
+bhayya	hi	G_N
+
+Aur	hi	G_X
+aap	hi	G_X
+kise	hi	G_PRP
+ho	hi	G_V
+
+Naira	hi	G_N
+is	hi	G_V
+approx	hi	G_R
+45	hi	$
+against	en	PSP
+dollar	en	G_N
+.	univ	G_X
+
+Bas	hi	G_X
+mast	hi	G_X
+.	univ	G_X
+
+Missing	en	G_V
+family	ne	G_N
+.	univ	G_X
+badly	hi	G_R
+
+Ghar	hi	G_N
+mein	hi	G_N
+aaj	hi	G_X
+shaadi	hi	G_N
+hai	hi	G_V
+.	univ	G_X
+
+😣😞😒😌😔	hi	G_X
+
+😭	hi	G_X
+
+Ayayyo	hi	U
+
+Kiski	hi	G_N
+shadi	hi	G_N
+h	hi	G_X
+bhaiyya	hi	G_N
+?	univ	G_X
+
+Hehe	hi	#
+
+Behen	hi	G_N
+ki	hi	G_PRP
+shaadi	hi	G_N
+and	en	CC
+M	hi	G_V
+not	en	G_R
+there	en	G_R
+.	univ	G_X
+
+😞	hi	G_X
+
+Bombay	hi	G_N
+wale	hi	G_N
+chachaji	hi	G_N
+ki	hi	G_PRP
+.	univ	G_X
+beti	hi	G_PRP
+ki	hi	G_PRP
+
+Acha	hi	G_N
+bhaiyya	hi	G_N
+
+Aap	hi	G_N
+kab	hi	PSP
+aarahe	hi	G_N
+ho	hi	G_V
+
+I	hi	G_PRP
+will	en	G_V
+land	en	G_V
+on	hi	PSP
+9th	hi	$
+
+Morning	en	G_N
+
