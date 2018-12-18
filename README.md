@@ -9,13 +9,19 @@ $ source /path/to/girnet-env/bin/activate
 (girnet-env)$ pip install -r requirements.txt
 ```
 
-Download the [zipped data files](https://drive.google.com/open?id=1fksInwJMD9vlFfduonjDyNMJ5GbUkKTQ) and unzip in the code root, which will place all the .h5 files in the data subdirectory.  Gdrive can be used for downloading.
+We will assume this code has been cloned to `/path/to/mtl_girnet` as the code base directory.  Download the [zipped data files](https://drive.google.com/open?id=1fksInwJMD9vlFfduonjDyNMJ5GbUkKTQ) and unzip in the code base directory, which will place all the .h5 files in the data subdirectory.  [Gdrive](https://github.com/prasmussen/gdrive) can be used for downloading.
 ```bash
-$ mkdir data
 $ cd /tmp
 $ gdrive download 1fksInwJMD9vlFfduonjDyNMJ5GbUkKTQ
-$ cd /path/to/code/data
+$ cd /path/to/mtl_girnet
 $ unzip /path/to/zipfile
+```
+If you want to prepare the data sets by yourself, clone this [repository of labeled aspect-based sentiment data](https://github.com/NUSTM/ABSC.git) and convert to the .h5 format we use, by running
+```bash
+(girnet-env)$ cd /path/to/mtl_girnet/data
+(girnet-env)$ git clone https://github.com/NUSTM/ABSC.git
+(girnet-env)$ cd /path/to/mtl_girnet/data_prep
+(girnet-env)$ python prep_absa_datasets.py
 ```
 
 To use GIRNet, import GIRNet.py in your project. Examples are provided in the following snippet.

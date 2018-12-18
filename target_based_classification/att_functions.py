@@ -1,13 +1,12 @@
 from keras.models import *
 from keras.layers import *
 import keras
-from myutils.keras_utils import allow_growth , showKerasModel
+from dlblocks.keras_utils import allow_growth , showKerasModel
 allow_growth()
-from myutils.pyutils import env_arg
 import tensorflow as tf
 
 
-glove_path = "../data/prepped/glovePrepped.h5"
+glove_path = "data/glovePrepped.h5"
 
 def sigmoid_with_len_l( inputs , length, max_len , padding='right' ):
     assert len( inputs.shape) == 2

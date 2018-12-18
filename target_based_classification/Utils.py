@@ -58,7 +58,7 @@ def get_embed(n_vocab=None , n_units=None , glove=False ):
 
     else:
 
-        gf = h5py.File("../../data/prepped/glovePrepped.h5")
+        gf = h5py.File("data/glovePrepped.h5")
         gloveVecs_42 = np.array( gf['glove_common_42_vecs'] )
 
         gloveSize  = gloveVecs_42.shape[-1]
@@ -115,7 +115,7 @@ class Trainer( BaseTrainer ):
 
         dataset_path = self.config['dataset']
         f = h5py.File( dataset_path , "r")
-        f2 = h5py.File( "./data/yelp2014_glove42b.h5" , "r")
+        f2 = h5py.File( "data/yelp2014_glove42b.h5" , "r")
         
         maxSentenceL = self.config['maxSentenceL']
         maxTarLen = self.config['maxTarLen']

@@ -1,17 +1,9 @@
-import json
-# import h5py
 import numpy as np
-import glob
-import os
-
-
-from dlblocks import text
 from dlblocks.pyutils import mapArrays , loadJson , saveJson , selectKeys , oneHotVec , padList
 from dlblocks.pyutils import int64Arr , floatArr
 import h5py
 
-
-raw_absa_path = "./data_raw_absa/"
+raw_absa_path = "../data/ABSC/data/absa/"
 glove_h5_path = "../data/glovePrepped.h5"
 
 
@@ -30,13 +22,13 @@ def gloveDict( w ):
     
     
     
-print "glove vocal len" , len( glovevocab )
+print("glove vocal len" , len( glovevocab ))
 
 def getrestraunt( split ):
     if split=='train':
-        lines = open(raw_absa_path+  "rest_2014_train.txt").read().split("\n")
+        lines = open(raw_absa_path+  "restaurant/rest_2014_train.txt").read().split("\n")
     elif split == 'test':
-        lines = open(raw_absa_path + "rest_2014_test.txt").read().split("\n")
+        lines = open(raw_absa_path + "restaurant/rest_2014_test.txt").read().split("\n")
     lines = lines[:-1]
     lines = map( lambda x : x.strip() , lines )
     train = []
@@ -45,7 +37,7 @@ def getrestraunt( split ):
     sentiments = lines[2::3]
     sentiments = map( int , sentiments )
     dset = zip( sentences , entities , sentiments )
-    print len( sentiments),len(entities) , len( sentences)
+    print(len( sentiments),len(entities) , len( sentences))
     assert len( sentiments)==len(entities) and len( entities)==len(sentences)
     dset = map( lambda x : {"sentence":x[0] , "entities":[{"entity": x[1] , "sentiment" : x[2] }]} , dset )
     return dset
@@ -54,9 +46,9 @@ def getrestraunt( split ):
 
 def getlaptop( split ):
     if split=='train':
-        lines = open(raw_absa_path + "laptop_2014_train.txt").read().split("\n")
+        lines = open(raw_absa_path + "laptop/laptop_2014_train.txt").read().split("\n")
     elif split == 'test':
-        lines = open(raw_absa_path+  "laptop_2014_test.txt").read().split("\n")
+        lines = open(raw_absa_path+  "laptop/laptop_2014_test.txt").read().split("\n")
     lines = lines[:-1]
     lines = map( lambda x : x.strip() , lines )
     train = []
@@ -65,7 +57,7 @@ def getlaptop( split ):
     sentiments = lines[2::3]
     sentiments = map( int , sentiments )
     dset = zip( sentences , entities , sentiments )
-    print len( sentiments),len(entities) , len( sentences)
+    print(len( sentiments),len(entities) , len( sentences))
     assert len( sentiments)==len(entities) and len( entities)==len(sentences)
     dset = map( lambda x : {"sentence":x[0] , "entities":[{"entity": x[1] , "sentiment" : x[2] }]} , dset )
     return dset
@@ -110,10 +102,9 @@ def vecc( d ):
 
 
 for dfn , outN in [ (getlaptop , "semival14_absa_Laptop_prepped_V2_gloved_42B" ) , ( getrestraunt , "semival14_absa_Restaurants_prepped_V2_gloved_42B") ] :
+    outFNN = "../data/%s.h5"%outN
+    print(outFNN)
     
-    print outN
-    
-    outFNN = "/tmp/%s.h5"%outN
     train = dfn(split = "train"    )
     test = dfn(split = "test"   )
     

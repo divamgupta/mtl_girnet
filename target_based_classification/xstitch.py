@@ -224,8 +224,7 @@ class CrossStitch_ABSA(Trainer):
 """
 config = {}
 config['epochs'] = 4
-config['dataset'] = "../../data/prepped/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
-# config['dataset'] =  "../../data/prepped/semival14_absa_Restaurants_prepped_V2_gloved_42B.h5"
+config['dataset'] = "/path/to/semival14_absa_Laptop_prepped_V2_gloved_42B.h5"
 config['maxSentenceL'] = 80
 config['maxTarLen'] = 10
 config['nHidden'] = 64

@@ -1,5 +1,6 @@
 .fuse*
 .*.ipynb
+*~
 
 sync.expect
 
@@ -104,6 +105,8 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# Data and log dirs
-data/**
+# Data, IDE and log dirs
+data
 .idea
+outputs/**
+logs
