@@ -26,6 +26,7 @@ def action(actset):
         free_tf_mem()
         model = CrossStitch_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 1 in actset:
         config = dict()
@@ -41,6 +42,7 @@ def action(actset):
         free_tf_mem()
         model = CrossStitch_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 2 in actset:
         config = dict()
@@ -56,6 +58,7 @@ def action(actset):
         free_tf_mem()
         model = CrossStitch_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 3 in actset:
         config = dict()
@@ -71,6 +74,7 @@ def action(actset):
         free_tf_mem()
         model = CrossStitch_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 4 in actset:
         config = dict()
@@ -86,6 +90,7 @@ def action(actset):
         free_tf_mem()
         model = SharedPrivate_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 5 in actset:
         config = dict()
@@ -101,6 +106,7 @@ def action(actset):
         free_tf_mem()
         model = SharedPrivate_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 6 in actset:
         config = dict()
@@ -116,6 +122,7 @@ def action(actset):
         free_tf_mem()
         model = SharedPrivate_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 7 in actset:
         config = dict()
@@ -131,6 +138,7 @@ def action(actset):
         free_tf_mem()
         model = SharedPrivate_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 8 in actset:
         config = dict()
@@ -145,6 +153,7 @@ def action(actset):
         free_tf_mem()
         model = Sluice_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 9 in actset:
         config = dict()
@@ -159,6 +168,7 @@ def action(actset):
         free_tf_mem()
         model = Sluice_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 10 in actset:
         config = dict()
@@ -173,6 +183,7 @@ def action(actset):
         free_tf_mem()
         model = LowSupShare_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 11 in actset:
         config = dict()
@@ -187,6 +198,7 @@ def action(actset):
         free_tf_mem()
         model = LowSupShare_ABSA(exp_location="outputs" , config_args=config)
         model.train()
+        del model
 
     if 12 in actset:
         config = dict()
@@ -202,6 +214,7 @@ def action(actset):
         free_tf_mem()
         model = HardShare_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 13 in actset:
         config = dict()
@@ -217,6 +230,7 @@ def action(actset):
         free_tf_mem()
         model = HardShare_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 14 in actset:
         config = dict()
@@ -232,6 +246,7 @@ def action(actset):
         free_tf_mem()
         model = HardShare_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 15 in actset:
         config = dict()
@@ -247,6 +262,7 @@ def action(actset):
         free_tf_mem()
         model = HardShare_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 16 in actset:
         config = dict()
@@ -262,6 +278,7 @@ def action(actset):
         free_tf_mem()
         model = GIRNet_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
     if 17 in actset:
         config = dict()
@@ -277,6 +294,7 @@ def action(actset):
         free_tf_mem()
         model = GIRNet_ABSA(exp_location="outputs", config_args=config)
         model.train()
+        del model
 
 
 if __name__ == "__main__":
