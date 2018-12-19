@@ -2,6 +2,8 @@
 
 Packaged datasets and Keras code for the paper [GIRNet: Interleaved Multi-Task Recurrent State Sequence Models](https://arxiv.org/abs/1811.11456).
 
+We use `tensorflow-gpu-1.4.0` which needs `cudnn6`.  To run on CUDA ca 2019, you need to [download cudnn6 from here](http://developer.download.nvidia.com/compute/machine-learning/repos/ubuntu1604/x86_64/libcudnn6_6.0.21-1+cuda8.0_amd64.deb) and install along with CUDA8.
+
 Prepare a virtual environment and install requirements as follows.
 ```shell
 $ virtualenv -p `which python2` /path/to/girnet-env

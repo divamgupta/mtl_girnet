@@ -1,36 +1,31 @@
-from keras.models import *
-from keras.layers import *
-import keras
-from dlblocks.keras_utils import allow_growth , showKerasModel
-allow_growth()
-from dlblocks.pyutils import env_arg
-import tensorflow as tf
-
+import numpy as np
+import keras.backend as K
 from Utils import Trainer
 
+from att_functions import glove_path, Embedding, Input, Lambda,\
+    Concatenate, GlobalAvgPool1D, \
+    Dense, Activation, Model, GRU, Dropout, Bidirectional, \
+    reduce_mean_with_len
 
-from att_functions import *
+from dlblocks.keras_utils import allow_growth
+allow_growth()
 
 
 class HardShare_ABSA(Trainer):
-    """docstring for GIRNet_ABSA"""
-
+    """
+    TODO(soumen) We want explicit __init__ but Trainer class is not
+    declared subclass of object.
+    """
 
     def get_glove(self):
-
         import h5py
         gf = h5py.File(glove_path)
         gloveVecs_42 = np.array( gf['glove_common_42_vecs'] )
         gloveSize  = gloveVecs_42.shape[-1]
         vocabSize = gloveVecs_42.shape[0]
-        
         self.gloveSize = gloveSize
         self.vocabSize = vocabSize
-
         self.glove_embed42 = (Embedding( vocabSize , gloveSize , weights=[gloveVecs_42] , trainable=False ))
-
-
-
 
     def get_document_level_rnn_weights(self):
 
@@ -121,20 +116,15 @@ class HardShare_ABSA(Trainer):
 
         return [left_i , right_i , tar_i ,sent_len_l ,sent_len_r , sent_len_t ] ,  [ Dense(3 , activation='softmax' )( feats  ) ,  Dense(3 , activation='softmax' )( feats  )  ]
 
-
-
     def build_model(self):
-
         self.get_glove()
-
         self.rnn_left_ = GRU( self.config['nHidden'] , return_sequences=True , dropout=self.config['dropout'] , recurrent_dropout=self.config['recurrent_dropout'] , trainable=True  )
         self.rnn_right_ = GRU( self.config['nHidden'] , return_sequences=True , dropout=self.config['dropout'] , recurrent_dropout=self.config['recurrent_dropout']  , trainable=True )
         
         if self.config['n_layers'] == 2:
             self.rnn_left_2 = GRU( self.config['nHidden'] , return_sequences=True , dropout=self.config['dropout'] , recurrent_dropout=self.config['recurrent_dropout'] , trainable=True  )
             self.rnn_right_2 = GRU( self.config['nHidden'] , return_sequences=True , dropout=self.config['dropout'] , recurrent_dropout=self.config['recurrent_dropout']  , trainable=True )
-        
-        
+
         aux_inps , aux_outs = self.getAuxM()
         prim_inps , prim_outs = self.getPrimM()
         self.model = Model( prim_inps+aux_inps , prim_outs+aux_outs )
