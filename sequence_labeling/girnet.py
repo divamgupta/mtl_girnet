@@ -64,7 +64,7 @@ class GIRNet_SeqLab(Trainer):
 
     def build_model(self):
 
-
+        config = self.config
         embed = Embedding( self.config['vocab_size']  ,  self.config['embed_dim']  , mask_zero=True)
 
         rnn_hi = LSTM( self.config['nHidden'] , return_sequences=True )

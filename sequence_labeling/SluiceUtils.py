@@ -1,6 +1,6 @@
 from keras.models import *
 from keras.layers import *
-from myutils.keras_utils import allow_growth , showKerasModel
+from dlblocks.keras_utils import allow_growth , showKerasModel
 allow_growth()
 import keras
 

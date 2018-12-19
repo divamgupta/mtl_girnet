@@ -199,7 +199,7 @@ datasets['data_hi'] = mapArrays( data_hi , vecc )
 datasets['data_enhi_1_tr'] = mapArrays( data_enhi_1_tr , vecc )
 datasets['data_enhi_1_te'] = mapArrays( data_enhi_1_te , vecc )
 
-outFNN = "/tmp/postag_prepped.h5"
+outFNN = "../data/postag_prepped.h5"
 
 f = h5py.File(outFNN , "w")
 for kk in datasets.keys():
