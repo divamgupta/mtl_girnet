@@ -29,7 +29,7 @@ class HardShare_SeqLab(Trainer):
         inp_hi = Input(( self.config['sent_len'] , ))
         x = embed(inp_hi)
         if config['n_layers'] == 2:
-            rnn2(rnn( x ))
+            x = rnn2(rnn( x ))
         else:
             x = rnn( x )
         out_hi = TimeDistributed(Dense( config['n_class_hi'] , activation='softmax'))(x)
@@ -40,7 +40,7 @@ class HardShare_SeqLab(Trainer):
         inp_en = Input(( self.config['sent_len'] , ))
         x = embed(inp_en)
         if config['n_layers'] == 2:
-            rnn2(rnn( x ))
+            x = rnn2(rnn( x ))
         else:
             x = rnn( x )
         out_en = TimeDistributed(Dense( config['n_class_en']  , activation='softmax'))(x)
@@ -50,7 +50,7 @@ class HardShare_SeqLab(Trainer):
         inp_enhi = Input(( self.config['sent_len'] , ))
         x = embed(inp_enhi)
         if config['n_layers'] == 2:
-            rnn2(rnn( x ))
+            x = rnn2(rnn( x ))
         else:
             x = rnn( x )
         out_enhi = TimeDistributed(Dense(  self.config['n_class_enhi'] , activation='softmax'))(x)
