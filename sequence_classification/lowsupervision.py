@@ -77,7 +77,7 @@ class LowSup_SeqClass(Trainer):
         
         
 # jjj
-
+"""
 config = {}
 config['epochs'] = 2
 config['dataset'] = "/tmp/senti_prepped.h5"
@@ -96,3 +96,4 @@ model = LowSup_SeqClass( exp_location="./ttt" , config_args = config )
 model.train()
 
 
+"""

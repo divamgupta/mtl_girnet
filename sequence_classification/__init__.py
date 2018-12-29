@@ -1,0 +1,6 @@
+from girnet import GIRNet_SeqClass
+from hardshare import HardShare_SeqClass
+from lowsupervision import LowSup_SeqClass
+from sluice import Sluice_SeqClass
+from sharedprivate import SharedPrivate_SeqClass
+from xstitch import CrossStitch_SeqClass

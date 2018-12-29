@@ -121,7 +121,7 @@ datasets = {"en_es_wssa_data_train_arr":en_es_wssa_data_train_arr ,
 
 
 
-outFNN = "/tmp/senti_prepped.h5"
+outFNN = "../data/senti_prepped.h5"
 
 f = h5py.File(outFNN , "w")
 for kk in datasets.keys():
